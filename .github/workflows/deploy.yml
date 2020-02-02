@@ -23,7 +23,7 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install
-      - name: Build Next Website
+      - name: Build Reveal Website
         run: |
           yarn run build
           touch _static/.nojekyll
