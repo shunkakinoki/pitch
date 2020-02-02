@@ -26,7 +26,6 @@ jobs:
       - name: Build Next Website
         run: |
           yarn run build
-          yarn run export
           touch _static/.nojekyll
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
