@@ -19,6 +19,6 @@
     "reveal-md": "^3.4.4"
   },
   "scripts": {
-    "build": "reveal-md src --static _static --template reveal.html --absolute-url https://pitch.shunkakinoki.com"
+    "build": "reveal-md src --static _static --template custom.html --absolute-url https://pitch.shunkakinoki.com"
   }
 }
