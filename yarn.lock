@@ -823,11 +823,6 @@ lodash@4.17.15:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
-lodash@^3.10.1:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
-  integrity sha1-W/Rejkm6QYnhfUgnid/RW9FAt7Y=
-
 lowercase-keys@^1.0.0, lowercase-keys@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.1.tgz#6f9e30b47084d971a7c820ff15a6c5167b74c26f"
@@ -1172,13 +1167,6 @@ responselike@^1.0.2:
   integrity sha1-kYcg7ztjHFZCvgaPFa3lpG9Loec=
   dependencies:
     lowercase-keys "^1.0.0"
-
-reveal-ga@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/reveal-ga/-/reveal-ga-0.2.0.tgz#cb67d4ea22dea792fe37c8d1384757c71e6c3a12"
-  integrity sha512-Mr60sqkd5cC+/oAQjcOn6g0/grK+IFIyCz7OBPTbeAN33+qqBOmYzQvLFVBLdsp1YMd1q+qN8cJXMBwo10NMlw==
-  dependencies:
-    lodash "^3.10.1"
 
 reveal-md@^3.4.4:
   version "3.4.4"
