@@ -8,7 +8,7 @@
 - 仮メンタリストえる(https://www.youtube.com/channel/UCoR01KQRDnox6FBIn5Nc-YQ)
 - クリスの部屋(https://www.youtube.com/channel/UCfqRMJrg010qS35Kj_dhuKA)
 
-全て属人的)
+全て属人的
 
 ---
 
