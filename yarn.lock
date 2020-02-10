@@ -1854,10 +1854,10 @@ ret@~0.1.10:
   resolved "https://registry.yarnpkg.com/ret/-/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
   integrity sha512-TTlYpa+OL+vMMNG24xSlQGEJ3B/RzEfUlLct7b5G/ytav+wPrplCpVMFuwzXbkecJrb6IYo1iFb0S9v37754mg==
 
-reveal-md@^3.4.5:
-  version "3.4.5"
-  resolved "https://registry.yarnpkg.com/reveal-md/-/reveal-md-3.4.5.tgz#4707069abaeac3323616de25b64cf505351d41d6"
-  integrity sha512-LWn7mfLjsJNf9JwXQ+GAXPkwBxPQl93hCwzsM52LW4EmHq3/wMI9Ys8aQeTeZEsfNBpZeQAVTLG+gRtUde1vBw==
+reveal-md@^3.4.6:
+  version "3.4.6"
+  resolved "https://registry.yarnpkg.com/reveal-md/-/reveal-md-3.4.6.tgz#4b0e167da96bb5ab4e265db3834ca6104a4f7bcc"
+  integrity sha512-vdVVex57UamU/vVbcBCNo9uCSzHVjqTN4aA8jseKsDjCR+8Mdw5as7SXjlp4V5LMbG8ZSedzBUQhEqLlDVNEJA==
   dependencies:
     debug "4.1.1"
     express "4.17.1"
