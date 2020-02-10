@@ -15,7 +15,7 @@
   "homepage": "https://www.shunkakinoki.com",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^3.4.5"
+    "reveal-md": "^3.4.6"
   },
   "scripts": {
     "build": "reveal-md src --static _static --template custom.html --absolute-url https://pitch.shunkakinoki.com",
