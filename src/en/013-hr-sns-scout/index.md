@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Discover hidden talent otherwise unreachable
 
 ---
 
-## PROBLEM
+## Problem
 
 - Open SNS data is fully not utilized for HR
 - The talent market should exist other than platforms like `Linkedin`
@@ -16,7 +16,7 @@ Discover hidden talent otherwise unreachable
 
 ---
 
-## SOLUTION
+## Solution
 
 - Create an agency to discover hidden talent through valuable SNS data
 - Retrieve personal info if user under consent

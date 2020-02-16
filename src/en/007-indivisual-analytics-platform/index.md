@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Democratize Analytics for Indivuals
 
 ---
 
-## PROBLEM
+## Problem
 
 - Analytics are in the hands of conglomerates
 - No unified solution for personal data & analytics
@@ -16,7 +16,7 @@ Democratize Analytics for Indivuals
 
 ---
 
-## SOLUTION
+## Solution
 
 - `LifeOps` as a Service through individual analytics
 - Aggregate personal data into their own hands with their control

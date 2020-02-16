@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Reduce Individual Disparity Through the Power of GAI
 
 ---
 
-## PROBLEM
+## Problem
 
 - Increasing disparity and inequality heavily contingent on the person's location
 - Poor people cannot get sufficient advice about anything in general
@@ -16,7 +16,7 @@ Reduce Individual Disparity Through the Power of GAI
 
 ---
 
-## SOLUTION
+## Solution
 
 - GAI to cover the knowledge gap between the rich and poor
 - Simple, constructive advice for better opportunities

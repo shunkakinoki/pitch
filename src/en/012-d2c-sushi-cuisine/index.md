@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 BRING THE AUTHENTIC SUSHI EXPERIENCE TO EVERYONE, ANYWHERE, ANYPLACE
 
 ---
 
-## PROBLEM
+## Problem
 
 - The quality of sushi in the states is vastly volatile
 - Very difficult to enjoy fresh sushi at home
@@ -16,7 +16,7 @@ BRING THE AUTHENTIC SUSHI EXPERIENCE TO EVERYONE, ANYWHERE, ANYPLACE
 
 ---
 
-## SOLUTION
+## Solution
 
 - Cutting-solution through luxurious authentic experiences
 - Deliver to anytime, anywhere, anyplace in LA

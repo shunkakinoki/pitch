@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Empower the world with the aid of your own private communication consultant
 
 ---
 
-## PROBLEM
+## Problem
 
 - Person-to-person communication is as important as ever, yet we do not have a systematic workflow to acquire it
 - Increasingly more and more people are being judged by AI? Then shouldn't the AI be in charge of training us too?
@@ -16,7 +16,7 @@ Empower the world with the aid of your own private communication consultant
 
 ---
 
-## SOLUTION
+## Solution
 
 - Affordable, Private, & Ubiquitous Private Communication Consultant
 - Training with apps or AR/VR as a practice field

@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 - Empower the Possibilities of People through GAI
 
 ---
 
-## PROBLEM
+## Problem
 
 - Most people do not have knowledge on how to develop grit
 - Grit is often conceived as a innate ability, while it is clearly not the case
@@ -16,7 +16,7 @@
 
 ---
 
-## SOLUTION
+## Solution
 
 - Empower the people through continuous systematic development of the people
 - Analytic-based solution to open up more opportunities
