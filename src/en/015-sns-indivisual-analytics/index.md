@@ -1,0 +1,23 @@
+# SNS Individual Analytics
+
+---
+
+## MISSION
+
+Unify the power of social network services -all in one place-
+
+---
+
+## PROBLEM
+
+- There is no unified cross-platform data analytics platform for individuals
+- Unable to observe multi-platform conversions
+- SNS services hold a distinctive monopoly against analytics data
+
+---
+
+## SOLUTION
+
+- The world's first cross-platform SNS data analytics platform
+- Convert users to enhance the use of our in-house affiliate links with the power of analytics
+- AI Solutions to suggest the most engaging content
