@@ -20,4 +20,4 @@ Discover hidden talent otherwise unreachable
 
 - Create an agency to discover hidden talent through valuable SNS data
 - Retrieve personal info if user under consent
-- Open profile analytics to quantatively measure & compete against others
+- Open profile analytics to quantitatively measure & compete against others

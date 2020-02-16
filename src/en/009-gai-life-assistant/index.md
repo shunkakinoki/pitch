@@ -4,7 +4,7 @@
 
 ## MISSION
 
-Reduce Indivisual Disparity Through the Power of GAI
+Reduce Individual Disparity Through the Power of GAI
 
 ---
 

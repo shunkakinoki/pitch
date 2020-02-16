@@ -23,5 +23,5 @@ in automation/CICD/DevOps
 ## Solution
 
 - Utilize the power of `Nocode` for `Github Actions` for a packaged solution
-- Create a rich ecosystem to work as the best pracitces
+- Create a rich ecosystem to work as the best practices
 - Enhance the current UI & UX for optimization
