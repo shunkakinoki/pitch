@@ -4,7 +4,7 @@
 
 ## MISSION
 
-Democratize analytics for indivuals
+Democratize Analytics for Indivuals
 
 ---
 
