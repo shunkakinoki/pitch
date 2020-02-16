@@ -15,7 +15,7 @@ There isn't a way to teach people about personality development
 - No one teaches us the required social skills in life
 - Rather they are passively aquired through life in general
 - Studies suggest that personality traits contribute more to
-success than IQ.
+success than IQ
 
 ---
 

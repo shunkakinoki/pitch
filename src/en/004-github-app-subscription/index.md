@@ -8,7 +8,7 @@ Democratize, Bundle, and Popularize `Github Apps`
 
 `Github Apps` are becoming an essential part of development
 More & more useful applications are introduced to the ecosystem
-It is truyly the future of software development.
+It is truyly the future of software development
 
 ---
 
