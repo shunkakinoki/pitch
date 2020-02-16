@@ -2,6 +2,12 @@
 
 ---
 
+## Mission
+
+Democratize `git`
+
+---
+
 I truly believe that `git` should be used for any purpose
 
 - business writing
@@ -10,16 +16,16 @@ I truly believe that `git` should be used for any purpose
 
 ---
 
-Problems
+## Problem
 
-- Heavily Based on CLI
-- A High Learning Curve
-- Unintuitive
+- Heavily based on CLI
+- A high learning curve
+- Unintuitive, high-barrier, geared towards coders
 
 ---
 
-Features
+## Solution
 
-- Intuitive UI & UX For Everyone
-- Sync With Git & Integrate With Github
-- Open-Source
+- Intuitive UI & UX for everyone
+- Sync with git & integrate with github
+- Open-Source code

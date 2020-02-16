@@ -1,0 +1,20 @@
+{
+  "Markdown Pitch Template": {
+    "scope": "markdown",
+    "prefix": "pitch",
+    "body": [
+      "# $0",
+      "",
+      "---",
+      "## MISSION",
+      "",
+      "---",
+      "## PROBLEM",
+      "",
+      "---",
+      "## SOLUTION",
+      "",
+    ],
+    "description": "Markdown Pitch Template"
+  },
+}
