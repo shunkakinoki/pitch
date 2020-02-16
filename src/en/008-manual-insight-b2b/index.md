@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Standardize Profound Manuals between Enterprises
 
 ---
 
-## PROBLEM
+## Problem
 
 - Manuals often share the same essences
 - Manual insight should be more open between businesses to achieve advantages
@@ -16,7 +16,7 @@ Standardize Profound Manuals between Enterprises
 
 ---
 
-## SOLUTION
+## Solution
 
 - Intelligent manual recommendation with NLP AI
 - Link analytics with specific manual as specific proposition

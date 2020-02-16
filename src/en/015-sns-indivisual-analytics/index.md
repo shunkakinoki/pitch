@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Unify the power of social network services -all in one place-
 
 ---
 
-## PROBLEM
+## Problem
 
 - There is no unified cross-platform data analytics platform for individuals
 - Unable to observe multi-platform conversions
@@ -16,7 +16,7 @@ Unify the power of social network services -all in one place-
 
 ---
 
-## SOLUTION
+## Solution
 
 - The world's first cross-platform SNS data analytics platform
 - Convert users to enhance the use of our in-house affiliate links with the power of analytics

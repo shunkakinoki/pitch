@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Simplify the tiring visa application process for both ends
 
 ---
 
-## PROBLEM
+## Problem
 
 - Visa application takes a long time -> outdated
 - Energy consuming for both ends of parties
@@ -16,7 +16,7 @@ Simplify the tiring visa application process for both ends
 
 ---
 
-## SOLUTION
+## Solution
 
 - Use AI to predict if applicant is likely to be accepted or not
 - `Legaltech` can be worked with conjunction

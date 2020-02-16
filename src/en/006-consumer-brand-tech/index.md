@@ -2,13 +2,13 @@
 
 ---
 
-## MISSION
+## Mission
 
 Lower the Barrier for Individuals to Create Their Own Brands
 
 ---
 
-## PROBLEM
+## Problem
 
 - `SNS` age has made it somewhat mandatory for people to establish themselves and have a brand
 - Yet consumers depend on multiple design tools that are relatively expensive
@@ -16,7 +16,7 @@ Lower the Barrier for Individuals to Create Their Own Brands
 
 ---
 
-## SOLUTION
+## Solution
 
 - Consumer-first `brand-tech` to support creators
 - Unified `brand-tech` app platform
