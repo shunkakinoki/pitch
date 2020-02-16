@@ -1,26 +1,26 @@
-# Personality Development SaaS
+# Personality Development Education Subscription SaaS
 
 ---
 
-Personality Development is Vastly Underrated
+## Mission
+
+Raise the global standard of personality development
 
 ---
 
-No One Teaches Us the Required Social Skills in Life
+## Problem
 
-There're rather passively aquired through life in general.
+There isn't a way to teach people about personality development
 
-However, studies suggest that personality traits contribute more to
+- No one teaches us the required social skills in life
+- Rather they are passively aquired through life in general
+- Studies suggest that personality traits contribute more to
 success than IQ.
 
 ---
 
-Shouldn't There Be a Way To Teach Us Personality Development?
+## Solution
 
----
-
-Features
-
-- Subscription Based SaaS
-- Intuitive Active Learning Content
-- The Future is Here
+- Proactive content with AR/VR/AI
+- Subscription based education software through apps
+- Make sure no one is left behind

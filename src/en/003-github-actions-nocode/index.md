@@ -1,21 +1,27 @@
-# GITHUB ACTIONS NOCODE
+# Github Actions Nocode
 
 ---
 
-Given the Platform, Power, Size of GitHub
-I Truly Believe That GitHub Actions Will Be a Gamechanger
-In Automation/Cicd/Devops
+## Mission
+
+Enhance the power of `Github Actions`
+
+Given the platform, power, size of Github
+I truly believe that github actions will be a gamechanger
+in automation/CICD/DevOps
 
 ---
 
-There Will Be Millions of Oss Actions,
-However Integration with One Another Is Yuck
-Very Unintuitive & Inefficient & Time-Consuming
+## Problem
+
+- Lots of choices of `OSS Github Actions`
+- Integration is complex & inefficient & hard
+- No best practice exists
 
 ---
 
-FEATURES
+## Solution
 
-- Utilize the Power of Nocode For Github Actions
-- Create a Rich Ecosystem For Awesome Actions Workflow
-- Intuitive and Low-barrier UI & UX
+- Utilize the power of `Nocode` For `Github Actions` for a packaged solution
+- Create a rich ecosystem to work as the best pracitces
+- Enhance the current UI & UX for optimization

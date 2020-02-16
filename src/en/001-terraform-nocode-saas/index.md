@@ -2,20 +2,22 @@
 
 ---
 
-Dev SaaS (Gitops)
+## Mission
+
+Democratize `Infrastructure as a Code`
 
 ---
 
-Problems
+## Problem
 
-1. Terraform Is Very Frustrating
-2. IaaC Should Be Automated Too
-3. Takes Long Time Even For Simple Tasks
+1. Terraform is very frustrating
+2. IaaC should be automated too
+3. Takes long time even for simple tasks
 
 ---
 
-Features
+## Solution
 
-1. Visually Customize Infrastructure
-2. Utilize Nocode For Better Agility/Cost/Productivity
-3. All Synced With Git Repository
+1. Visually customize infrastructure
+2. Utilize nocode for better agility/cost/productivity
+3. All synced with git repository for easier integration
