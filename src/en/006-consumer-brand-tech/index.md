@@ -4,7 +4,7 @@
 
 ## MISSION
 
-Lower the barrier for indivisuals to create their own brands
+Lower the Barrier for Indivisuals to Create Their Own Brands
 
 ---
 

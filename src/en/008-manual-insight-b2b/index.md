@@ -4,7 +4,7 @@
 
 ## MISSION
 
-Standardize profound manuals between enterprises
+Standardize Profound Manuals between Enterprises
 
 ---
 
