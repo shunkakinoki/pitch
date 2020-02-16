@@ -18,6 +18,6 @@ Democratize Analytics for Indivuals
 
 ## SOLUTION
 
-- `LifeOps` as a Service through indivisual analytics
+- `LifeOps` as a Service through individual analytics
 - Aggregate personal data into their own hands with their control
-- Develop indivisual's abilities/attributes/skills/ as a service
+- Develop individual's abilities/attributes/skills/ as a service

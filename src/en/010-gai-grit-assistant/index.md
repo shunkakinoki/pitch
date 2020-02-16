@@ -11,7 +11,7 @@
 ## PROBLEM
 
 - Most people do not have knowledge on how to develop grit
-- Grit is often concieved as a innate ability, while it is clearly not the case
+- Grit is often conceived as a innate ability, while it is clearly not the case
 - People do not have access to the appropriate methodology regarding personal development
 
 ---

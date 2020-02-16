@@ -16,5 +16,14 @@
     "tab.activeBorder": "#d04649"
   },
   "peacock.color": "#b52e31",
-  "editor.wordWrap": "on"
+  "editor.wordWrap": "on",
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "CICD",
+    "Govetech",
+    "Legaltech",
+    "SAAS",
+    "Unintuitive",
+    "gamechanger"
+  ],
 }

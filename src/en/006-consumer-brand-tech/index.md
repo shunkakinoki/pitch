@@ -4,7 +4,7 @@
 
 ## MISSION
 
-Lower the Barrier for Indivisuals to Create Their Own Brands
+Lower the Barrier for Individuals to Create Their Own Brands
 
 ---
 
@@ -20,4 +20,4 @@ Lower the Barrier for Indivisuals to Create Their Own Brands
 
 - Consumer-first `brand-tech` to support creators
 - Unified `brand-tech` app platform
-- Help indivisuals conquer brand marketing through analytics
+- Help individuals conquer brand marketing through analytics
