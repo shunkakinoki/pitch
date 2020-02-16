@@ -6,18 +6,22 @@
 
 Democratize, Bundle, and Popularize `Github Apps`
 
+`Github Apps` are becoming an essential part of development
+More & more useful applications are introduced to the ecosystem
+It is truyly the future of software development.
+
 ---
 
 ## Problem
 
-- `Github Apps` are not bundled together, leading to high-cost for each subscription
-- Best Practices(Apps) can not be implemented easily
-- No single integrated platform for them
+- They are not bundled together, leading to high-cost
+- Best practices (apps) can not be implemented easily
+- No visual way to observe the performance of each
 
 ---
 
 ## Solution
 
-- Bundled Subscription Together at a Low Price
-- Establish the Best Practices
-- (Future) Complete With Github Actions Implementation for Enhanced DevOps
+- Bundled together at a low price
+- Implement the very best essential apps
+- (Future) complete with `Github Actions` implementation

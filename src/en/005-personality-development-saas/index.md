@@ -4,7 +4,7 @@
 
 ## Mission
 
-Raise the global standard of personality development
+Raise the Global Standard of Personality Development
 
 ---
 
