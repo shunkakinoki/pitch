@@ -1,19 +1,23 @@
-# Video Chat Recruitment
+# SNS Team SaaS
 
 ---
 
 ## Mission
 
-Provide a more futuristic experience to both sides of hiring
+SNS Team SaaS
 
 ---
 
 ## Problem
 
-- Recruitment is geared too much to the offline
-- Person-to-person interviews are overvalued in the age of remote work
-- L
+- No integrated solution to form teams easily through SNS
+- Team collaboration requires a trusted third party in between
+- No easily-integrated solution with Twitter
 
 ---
 
 ## Solution
+
+- World's first Twitter-first solution to collaborate with teams
+- Easy collaboration with rating functionality for both sides
+- Bidding, equity, revenue-sharing simplified for the team work
