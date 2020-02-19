@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/shunkakinoki/pitch/compare/v1.5.0...v1.5.1) (2020-02-19)
+
+
+### Performance Improvements
+
+* ⚡️ 069 ([f190c7d](https://github.com/shunkakinoki/pitch/commit/f190c7d7e2b8b1fc40aca8f3e036773dcc1b0ee7))
+
 # [1.5.0](https://github.com/shunkakinoki/pitch/compare/v1.4.0...v1.5.0) (2020-02-19)
 
 
