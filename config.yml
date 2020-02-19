@@ -1,0 +1,10 @@
+baseURL: "https://pitch.shunkakinoki.com/"
+languageCode: "en-us"
+title: "Pitch"
+theme: "reveal-hugo"
+
+outputFormats:
+  Reveal:
+    baseName: "index"
+    mediaType: "text/html"
+    isHTML: true
