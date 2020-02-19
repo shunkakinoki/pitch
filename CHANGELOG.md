@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/shunkakinoki/pitch/compare/v1.2.0...v1.3.0) (2020-02-19)
+
+
+### Features
+
+* 🎸 061-063 ([c9f3e3f](https://github.com/shunkakinoki/pitch/commit/c9f3e3f603f53599f44fa91cc06078270d56509d))
+
 # [1.2.0](https://github.com/shunkakinoki/pitch/compare/v1.1.0...v1.2.0) (2020-02-19)
 
 
