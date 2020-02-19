@@ -1,5 +1,0 @@
----
-outputs: ["Reveal"]
----
-
-# pitch
