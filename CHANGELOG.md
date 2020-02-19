@@ -1,3 +1,11 @@
+# [1.6.0](https://github.com/shunkakinoki/pitch/compare/v1.5.1...v1.6.0) (2020-02-19)
+
+
+### Features
+
+* 🎸 072 ([9aaf7ff](https://github.com/shunkakinoki/pitch/commit/9aaf7ff247ecc9c586b271b091058a2a4689ae6a))
+* 🎸 074 ([59491cc](https://github.com/shunkakinoki/pitch/commit/59491cc4ac4f4f8bc82809226b569a9167666837))
+
 ## [1.5.1](https://github.com/shunkakinoki/pitch/compare/v1.5.0...v1.5.1) (2020-02-19)
 
 
