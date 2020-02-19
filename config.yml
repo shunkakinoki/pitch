@@ -1,7 +1,7 @@
 baseURL: "https://pitch.shunkakinoki.com/"
 languageCode: "en-us"
 title: "Pitch"
-theme: "reveal-hugo"
+theme: "binario"
 
 outputFormats:
   Reveal:

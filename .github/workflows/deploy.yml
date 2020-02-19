@@ -32,13 +32,6 @@ jobs:
       - name: Build Reveal Site
         run: |
           yarn run build
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-      - name: Build Hugo Website
-        run: |
-          hugo --minify
           touch public/.nojekyll
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
