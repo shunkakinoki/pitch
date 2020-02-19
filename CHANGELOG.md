@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/shunkakinoki/pitch/compare/v1.1.0...v1.2.0) (2020-02-19)
+
+
+### Bug Fixes
+
+* 🐛 gha ([56ecfc3](https://github.com/shunkakinoki/pitch/commit/56ecfc3469441fd34454261e6ec636a513abb593))
+
+
+### Features
+
+* 🎸 hugo-remove ([62999fe](https://github.com/shunkakinoki/pitch/commit/62999fefda7149c0f1e5229d72db6f2e26aaf7a9))
+
 # [1.1.0](https://github.com/shunkakinoki/pitch/compare/v1.0.2...v1.1.0) (2020-02-19)
 
 
