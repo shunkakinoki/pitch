@@ -20,4 +20,4 @@ Reduce Individual Disparity Through the Power of GAI
 
 - GAI to cover the knowledge gap between the rich and poor
 - Simple, constructive advice for better opportunities
-- Make life more equal between all indivisuals as possible
+- Make life more equal between all individuals as possible
