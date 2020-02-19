@@ -39,7 +39,7 @@ jobs:
       - name: Build Hugo Website
         run: |
           hugo --minify
-          touch _static/.nojekyll
+          touch public/.nojekyll
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
