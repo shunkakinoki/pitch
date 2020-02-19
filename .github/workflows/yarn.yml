@@ -1,16 +1,11 @@
-name: Build
-on:
-  push:
-    branches:
-      - master
-  pull_request:
-    paths:
-      - "**"
+
+name: Yarn
+on: pull_request
 jobs:
-  build:
+  yarn:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
           node-version: "12.x"
@@ -26,9 +21,6 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install
-      # - name: Test With Jest
-      #   run: |
-      #     yarn run test
-      - name: Build Reveal Site
+      - name: Run yarn test
         run: |
-          yarn run build
+          yarn run test
