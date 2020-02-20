@@ -1,3 +1,15 @@
+# [2.3.0](https://github.com/shunkakinoki/pitch/compare/v2.2.1...v2.3.0) (2020-02-20)
+
+
+### Bug Fixes
+
+* 🐛 post ([9bf7d2d](https://github.com/shunkakinoki/pitch/commit/9bf7d2df6ac461a8978d8c7b5e4b599579685461))
+
+
+### Features
+
+* 🎸 custom ([30fe4f6](https://github.com/shunkakinoki/pitch/commit/30fe4f6f0d33f34b9b2eb6b709ad42222a39eaee))
+
 ## [2.2.1](https://github.com/shunkakinoki/pitch/compare/v2.2.0...v2.2.1) (2020-02-20)
 
 
