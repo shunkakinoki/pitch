@@ -20,7 +20,7 @@
     "eclint-fix": "eclint fix $(git ls-files)"
   },
   "dependencies": {
-    "reveal-md": "^3.4.6"
+    "reveal-md": "^3.4.7"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
