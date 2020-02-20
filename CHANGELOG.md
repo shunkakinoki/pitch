@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/shunkakinoki/pitch/compare/v1.8.0...v2.0.0) (2020-02-20)
+
+
+### Features
+
+* 🎸 START ([663f67a](https://github.com/shunkakinoki/pitch/commit/663f67af7b2c3630327653a38732195b9907460f))
+
+
+### BREAKING CHANGES
+
+* 🧨 RESTART
+
 # [1.8.0](https://github.com/shunkakinoki/pitch/compare/v1.7.0...v1.8.0) (2020-02-19)
 
 
