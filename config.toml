@@ -1,0 +1,19 @@
+base_url = "https://pitch.shunkakinoki.com"
+compile_sass = true
+description = ""
+theme = "after-dark"
+title = "pitch"
+
+taxonomies = [
+    {name = "categories", rss = true},
+    {name = "tags", rss = true},
+]
+
+[extra]
+author = "Shun Kakinoki"
+after_dark_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+after_dark_title = "Pitch"
