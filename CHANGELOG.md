@@ -1,3 +1,16 @@
+# [2.2.0](https://github.com/shunkakinoki/pitch/compare/v2.1.0...v2.2.0) (2020-02-20)
+
+
+### Bug Fixes
+
+* 🐛 bug ([60ff332](https://github.com/shunkakinoki/pitch/commit/60ff33212eb3b71ef5bb38a1bec8466d5451351c))
+
+
+### Features
+
+* 🎸 cee ([c546b3f](https://github.com/shunkakinoki/pitch/commit/c546b3f872ea8cd289a349b921c446d831fc2c33))
+* 🎸 zolo ([5597b62](https://github.com/shunkakinoki/pitch/commit/5597b622f69488a3f8ad46ea562dbaf0078a9eaa))
+
 # [2.1.0](https://github.com/shunkakinoki/pitch/compare/v2.0.0...v2.1.0) (2020-02-20)
 
 
