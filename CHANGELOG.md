@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/shunkakinoki/pitch/compare/v2.2.0...v2.2.1) (2020-02-20)
+
+
+### Bug Fixes
+
+* 🐛 bug ([a8eba64](https://github.com/shunkakinoki/pitch/commit/a8eba64f837f080c9b1b9761a3e37612db1cc1a2))
+
 # [2.2.0](https://github.com/shunkakinoki/pitch/compare/v2.1.0...v2.2.0) (2020-02-20)
 
 
