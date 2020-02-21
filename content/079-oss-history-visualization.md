@@ -1,5 +1,5 @@
 +++
-title = "OSS History Visualization"j
+title = "OSS History Visualization"
 [taxonomies]
 tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
@@ -19,7 +19,7 @@ Provide the greatest insights for all open source projects
 
 - Difficult to get critical insights regarding oss projects
 - Github visualization along with UI/UX is very poor
-- Insight is necessary to provide lessons for future projectss
+- Insight is necessary to provide lessons for future projects
 
 ---
 

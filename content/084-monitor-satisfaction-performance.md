@@ -1,5 +1,5 @@
 +++
-title = "Monitor Satisfaction Performance
+title = "Monitor Satisfaction Performance"
 [taxonomies]
 tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
