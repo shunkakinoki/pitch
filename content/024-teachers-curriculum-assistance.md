@@ -1,3 +1,10 @@
++++
+title = "Teacher's Curriculum Assistance"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Teacher's Curriculum Assistance
 
 ---

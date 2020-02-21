@@ -1,3 +1,10 @@
++++
+title = "Kubernetes from Github"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Kubernetes from Github
 
 ---

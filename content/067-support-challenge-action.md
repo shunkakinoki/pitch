@@ -1,3 +1,10 @@
++++
+title = "Support Challenges for Individuals"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Support Challenges for Individuals
 
 ---

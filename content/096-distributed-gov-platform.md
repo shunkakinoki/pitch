@@ -1,3 +1,10 @@
++++
+title = "Distributed Gov Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Distributed Gov Platform
 
 ---

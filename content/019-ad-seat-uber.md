@@ -1,3 +1,10 @@
++++
+title = "Personalized Ads on Seats of Uber"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Personalized Ads on Seats of Uber
 
 ---

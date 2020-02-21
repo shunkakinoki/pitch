@@ -1,3 +1,10 @@
++++
+title = "OSS Tech HR"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # OSS Tech HR
 
 ---

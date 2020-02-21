@@ -1,3 +1,10 @@
++++
+title = "Presentation Video Software"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Presentation Video Software
 
 ---

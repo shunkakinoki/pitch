@@ -1,3 +1,10 @@
++++
+title = "OSS Startups Monetization"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # OSS Startups Monetization
 
 ---

@@ -1,3 +1,10 @@
++++
+title = "D2C Japanese Cosmetics"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C Japanese Cosmetics
 
 ---

@@ -1,4 +1,11 @@
-# B2B Sales Training
++++
+title = "Memo Efficiency Hardware"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
+# Memo Efficiency Hardware
 
 ---
 

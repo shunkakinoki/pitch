@@ -1,3 +1,10 @@
++++
+title = "Startup Science VC"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Startup Science VC
 
 ---

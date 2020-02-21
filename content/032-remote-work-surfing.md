@@ -1,3 +1,10 @@
++++
+title = "Remote work surfing"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Remote work surfing
 
 ---

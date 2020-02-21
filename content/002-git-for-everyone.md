@@ -1,3 +1,10 @@
++++
+title = "Git For Everyone"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Git For Everyone
 
 ---

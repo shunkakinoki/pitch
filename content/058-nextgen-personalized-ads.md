@@ -1,3 +1,10 @@
++++
+title = "Next-gen Personalized Ads"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Next-gen Personalized Ads
 
 ---

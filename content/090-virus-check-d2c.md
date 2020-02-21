@@ -1,3 +1,10 @@
++++
+title = "Virus Checking D2C"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Virus Checking D2C
 
 ---

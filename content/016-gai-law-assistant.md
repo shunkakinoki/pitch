@@ -1,3 +1,10 @@
++++
+title = "GAI Legal Assistant"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # GAI Legal Assistant
 
 ---

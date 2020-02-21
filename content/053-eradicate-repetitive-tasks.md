@@ -1,3 +1,10 @@
++++
+title = "Eradicate Repetitive Tasks"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Eradicate Repetitive Tasks
 
 ---

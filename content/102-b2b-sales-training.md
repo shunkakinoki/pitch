@@ -1,3 +1,10 @@
++++
+title = "B2B Sales Training"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # B2B Sales Training
 
 ---

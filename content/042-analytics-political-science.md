@@ -1,3 +1,10 @@
++++
+title = "Analytics Political Science"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Analytics Political Science
 
 ---

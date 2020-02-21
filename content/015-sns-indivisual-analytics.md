@@ -1,3 +1,10 @@
++++
+title = "SNS Individual Analytics"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # SNS Individual Analytics
 
 ---

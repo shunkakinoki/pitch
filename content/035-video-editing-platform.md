@@ -1,3 +1,10 @@
++++
+title = "Video Editing Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Video Editing Platform
 
 ---

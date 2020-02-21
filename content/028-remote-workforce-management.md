@@ -1,3 +1,10 @@
++++
+title = "Remote Workforce Management"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Remote Workforce Management
 
 ---

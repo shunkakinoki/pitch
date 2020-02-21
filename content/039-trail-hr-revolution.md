@@ -1,3 +1,10 @@
++++
+title = "Trial HR Revolution"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Trial HR Revolution
 
 ---

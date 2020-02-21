@@ -1,3 +1,10 @@
++++
+title = "Communication Psychology Learning"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Communication Psychology Learning
 
 ---

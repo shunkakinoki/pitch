@@ -1,3 +1,10 @@
++++
+title = "Automatic Lecture Insight"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Automatic Lecture Insight
 
 ---

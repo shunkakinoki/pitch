@@ -1,3 +1,10 @@
++++
+title = "Research Report AI"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Research Report AI
 
 ---

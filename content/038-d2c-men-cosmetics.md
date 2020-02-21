@@ -1,3 +1,10 @@
++++
+title = "D2C Men Cosmetics"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C Men Cosmetics
 
 ---

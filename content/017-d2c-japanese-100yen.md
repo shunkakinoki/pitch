@@ -1,3 +1,10 @@
++++
+title = "D2C Japanese 100 Yen Store"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C Japanese 100 Yen Store
 
 ---

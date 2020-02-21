@@ -1,3 +1,10 @@
++++
+title = "Communication Phycology AI"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Communication Phycology AI
 
 ---

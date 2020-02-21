@@ -1,3 +1,10 @@
++++
+title = "Github Actions Nocode"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Github Actions Nocode
 
 ---

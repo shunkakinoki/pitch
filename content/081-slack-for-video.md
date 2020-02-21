@@ -1,3 +1,10 @@
++++
+title = "Slack for Video"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Slack for Video
 
 ---

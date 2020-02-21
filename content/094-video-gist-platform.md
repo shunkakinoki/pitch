@@ -1,3 +1,10 @@
++++
+title = "Video Gist Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Video Gist Platform
 
 ---

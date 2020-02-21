@@ -1,3 +1,10 @@
++++
+title = "Real Life GPA"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Real Life GPA
 
 ---

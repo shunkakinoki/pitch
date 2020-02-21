@@ -1,3 +1,10 @@
++++
+title = "Essence Education Video"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Essence Education Video
 
 ---

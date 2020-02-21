@@ -1,3 +1,10 @@
++++
+title = "HR SNS Scout"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # HR SNS Scout
 
 ---

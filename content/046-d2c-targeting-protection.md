@@ -1,3 +1,10 @@
++++
+title = "D2C Targeting Protection"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C Targeting Protection
 
 ---

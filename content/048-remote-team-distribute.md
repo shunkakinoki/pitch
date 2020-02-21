@@ -1,3 +1,10 @@
++++
+title = "Remote Team Distribution"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Remote Team Distribution
 
 ---

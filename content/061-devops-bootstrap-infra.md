@@ -1,3 +1,10 @@
++++
+title = "DevOps Bootstrap Infra"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # DevOps Bootstrap Infra
 
 ---

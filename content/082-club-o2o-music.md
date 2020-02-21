@@ -1,3 +1,10 @@
++++
+title = "Club O2O Queue Social Music App"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Club O2O Queue Social Music App
 
 ---

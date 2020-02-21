@@ -1,3 +1,10 @@
++++
+title = "OSS Textbook Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # OSS Textbook Platform
 
 ---

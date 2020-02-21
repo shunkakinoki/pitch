@@ -1,3 +1,10 @@
++++
+title = "DevOps Github Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # DevOps Github Platform
 
 ---

@@ -5,14 +5,14 @@ fn main() {
     .version(crate_version!())
     .author("Shun Kakinoki <shunkakinoki@gmail.com>")
     .arg(
-      Arg::with_name("c2p")
+      Arg::with_name("convert")
         .help("Convert `content` to `pitch`")
         .short('c')
-        .long("c2p"),
+        .long("convert"),
     )
     .get_matches();
 
-  if matches.is_present("c2p") {
-    println!("C2p is turned on");
+  if matches.is_present("convert") {
+    println!("Convert");
   }
 }

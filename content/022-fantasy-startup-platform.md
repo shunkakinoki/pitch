@@ -1,3 +1,10 @@
++++
+title = "Fantasy Startup Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Fantasy Startup Platform
 
 ---

@@ -1,3 +1,10 @@
++++
+title = "CEO Workflow SaaS"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # CEO Workflow SaaS
 
 ---

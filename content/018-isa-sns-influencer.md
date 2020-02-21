@@ -1,3 +1,10 @@
++++
+title = "ISA SNS Influencer"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # ISA SNS Influencer
 
 ---

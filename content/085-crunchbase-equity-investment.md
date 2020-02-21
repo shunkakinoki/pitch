@@ -1,3 +1,10 @@
++++
+title = "Startup Equity Investment Platform with Crunchbase analytics"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Startup Equity Investment Platform with Crunchbase analytics
 
 ---

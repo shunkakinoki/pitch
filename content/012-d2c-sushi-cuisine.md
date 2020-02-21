@@ -1,3 +1,10 @@
++++
+title = "D2C SUSHI CUISINE"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C SUSHI CUISINE
 
 ---

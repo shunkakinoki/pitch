@@ -1,3 +1,10 @@
++++
+title = "D2C Celebrity Clothing"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # D2C Celebrity Clothing
 
 ---

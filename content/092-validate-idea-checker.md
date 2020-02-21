@@ -1,3 +1,10 @@
++++
+title = "Validate Idea Checker"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Validate Idea Checker
 
 ---

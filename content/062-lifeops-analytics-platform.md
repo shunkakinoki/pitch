@@ -1,3 +1,10 @@
++++
+title = "LifeOps Analytics Platform"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # LifeOps Analytics Platform
 
 ---

@@ -1,3 +1,10 @@
++++
+title = "Hater Proof Legaltech"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Hater Proof Legaltech
 
 ---

@@ -1,3 +1,10 @@
++++
+title = "Video Chat Recruitment"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Video Chat Recruitment
 
 ---

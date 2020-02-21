@@ -1,3 +1,10 @@
++++
+title = "E-learning Book Video"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # E-learning Book Video
 
 ---

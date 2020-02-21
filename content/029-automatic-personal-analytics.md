@@ -1,3 +1,10 @@
++++
+title = "Automatic Personal Analytics"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Automatic Personal Analytics
 
 ---

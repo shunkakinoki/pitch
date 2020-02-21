@@ -1,3 +1,10 @@
++++
+title = "GAI Life Assistant"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # GAI Life Assistant
 
 ---

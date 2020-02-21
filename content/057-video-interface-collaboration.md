@@ -1,3 +1,10 @@
++++
+title = "Video Interface Collaboration"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Video Interface Collaboration
 
 ---

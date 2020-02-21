@@ -1,3 +1,10 @@
++++
+title = "Youtube Collaborating on Autopilot"
+[taxonomies]
+tags = ["terraform", "nocode", "rust"]
+categories = ["dev"]
++++
+
 # Youtube Collaborating on Autopilot
 
 ---
