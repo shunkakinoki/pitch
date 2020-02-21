@@ -1,3 +1,11 @@
+## [2.4.1](https://github.com/shunkakinoki/pitch/compare/v2.4.0...v2.4.1) (2020-02-21)
+
+
+### Bug Fixes
+
+* 🐛 104 ([39ac239](https://github.com/shunkakinoki/pitch/commit/39ac23907a497738a96649b5e00ea3ac5b77385b))
+* 🐛 bug ([9323f02](https://github.com/shunkakinoki/pitch/commit/9323f021a47d43af2c72253d5808d4f785ab58ae))
+
 # [2.4.0](https://github.com/shunkakinoki/pitch/compare/v2.3.2...v2.4.0) (2020-02-21)
 
 
