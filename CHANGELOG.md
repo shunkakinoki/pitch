@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/shunkakinoki/pitch/compare/v3.0.2...v3.1.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 site ([19ddf2d](https://github.com/shunkakinoki/pitch/commit/19ddf2dd7420266e6a52b790f15cf4e5e14838b7))
+
 ## [3.0.2](https://github.com/shunkakinoki/pitch/compare/v3.0.1...v3.0.2) (2020-02-22)
 
 
