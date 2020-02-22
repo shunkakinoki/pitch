@@ -1,3 +1,10 @@
+# [3.4.0](https://github.com/shunkakinoki/pitch/compare/v3.3.0...v3.4.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 analytics ([50f3343](https://github.com/shunkakinoki/pitch/commit/50f3343d77a0fcc65e783a61fe14ce7c47c432a1))
+
 # [3.3.0](https://github.com/shunkakinoki/pitch/compare/v3.2.1...v3.3.0) (2020-02-22)
 
 
