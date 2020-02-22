@@ -1,3 +1,10 @@
+# [3.5.0](https://github.com/shunkakinoki/pitch/compare/v3.4.2...v3.5.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 reveal ([fa17146](https://github.com/shunkakinoki/pitch/commit/fa17146328909540a06b1fd855564dfa44f3b440))
+
 ## [3.4.2](https://github.com/shunkakinoki/pitch/compare/v3.4.1...v3.4.2) (2020-02-22)
 
 
