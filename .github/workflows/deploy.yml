@@ -32,7 +32,6 @@ jobs:
       - name: Run make
         run: |
           make
-          cp templates/reveal.json pitch/reveal.json
       - name: Build Reveal Site
         run: |
           yarn run build
