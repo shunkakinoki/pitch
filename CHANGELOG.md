@@ -1,3 +1,10 @@
+# [3.8.0](https://github.com/shunkakinoki/pitch/compare/v3.7.0...v3.8.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 reverse ([ce2c5d9](https://github.com/shunkakinoki/pitch/commit/ce2c5d94ab04a4d416e146f3cdf7dad99522119f))
+
 # [3.7.0](https://github.com/shunkakinoki/pitch/compare/v3.6.0...v3.7.0) (2020-02-22)
 
 
