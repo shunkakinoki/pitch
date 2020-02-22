@@ -1,3 +1,10 @@
+# [3.11.0](https://github.com/shunkakinoki/pitch/compare/v3.10.1...v3.11.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 config ([ecf98b1](https://github.com/shunkakinoki/pitch/commit/ecf98b16bb70828c86ce4e1f44c49e6f1ead9b24))
+
 ## [3.10.1](https://github.com/shunkakinoki/pitch/compare/v3.10.0...v3.10.1) (2020-02-22)
 
 
