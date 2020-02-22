@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/shunkakinoki/pitch/compare/v3.1.0...v3.2.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 package ([230a346](https://github.com/shunkakinoki/pitch/commit/230a346e11ccfffed1aa6ab8f7bf86654b2362fd))
+
 # [3.1.0](https://github.com/shunkakinoki/pitch/compare/v3.0.2...v3.1.0) (2020-02-22)
 
 
