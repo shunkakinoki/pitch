@@ -1,3 +1,3 @@
 +++
-paginate_by = 30
+paginate_by = 300
 +++
