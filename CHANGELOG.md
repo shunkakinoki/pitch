@@ -1,3 +1,10 @@
+## [3.4.2](https://github.com/shunkakinoki/pitch/compare/v3.4.1...v3.4.2) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 analytics ([d43ed0a](https://github.com/shunkakinoki/pitch/commit/d43ed0a6a8106bbc69426bf75c665b56dc62b0be))
+
 ## [3.4.1](https://github.com/shunkakinoki/pitch/compare/v3.4.0...v3.4.1) (2020-02-22)
 
 
