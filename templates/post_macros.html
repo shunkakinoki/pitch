@@ -19,7 +19,8 @@
     <article itemscope itemtype="http://schema.org/CreativeWork">
         <header>
             <h3 itemprop="name">
-                <a href="{{ page.permalink ~ 'pitch.html' | safe }}">{% if page.taxonomies.id %}{{ page.taxonomies.id }}{% endif %}{{ page.title }}</a>
+                {% if page.taxonomies.id %}{{ page.taxonomies.id }}{% endif %}
+                <a href="{{ page.permalink ~ 'pitch.html' | safe }}">{{ page.title }}</a>
             </h3>
             <!-- <span class="muted">{{ self::meta(page=page) }}</span> -->
         </header>
