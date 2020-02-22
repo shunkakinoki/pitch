@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/shunkakinoki/pitch/compare/v2.5.0...v2.6.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 BREAKING ([9f083a8](https://github.com/shunkakinoki/pitch/commit/9f083a80ce88a54c9a9184d31b65e43b9380e11e))
+
 # [2.5.0](https://github.com/shunkakinoki/pitch/compare/v2.4.1...v2.5.0) (2020-02-22)
 
 
