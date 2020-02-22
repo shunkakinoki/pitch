@@ -1,3 +1,10 @@
+## [3.5.1](https://github.com/shunkakinoki/pitch/compare/v3.5.0...v3.5.1) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 reveal.json ([3c39332](https://github.com/shunkakinoki/pitch/commit/3c393329a2b58a3a2ec19f818588c98109cc112c))
+
 # [3.5.0](https://github.com/shunkakinoki/pitch/compare/v3.4.2...v3.5.0) (2020-02-22)
 
 
