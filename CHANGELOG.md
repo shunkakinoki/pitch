@@ -1,3 +1,10 @@
+## [3.4.1](https://github.com/shunkakinoki/pitch/compare/v3.4.0...v3.4.1) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 but-reveal ([8bb637f](https://github.com/shunkakinoki/pitch/commit/8bb637f94de89c653d5cbbd9fe2467b61451da93))
+
 # [3.4.0](https://github.com/shunkakinoki/pitch/compare/v3.3.0...v3.4.0) (2020-02-22)
 
 
