@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/shunkakinoki/pitch/compare/v2.6.0...v3.0.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 zola ([94b8938](https://github.com/shunkakinoki/pitch/commit/94b8938a9403720c4c5c66f7474c8fce19b6f6e0))
+
+
+### BREAKING CHANGES
+
+* 🧨 YES
+
 # [2.6.0](https://github.com/shunkakinoki/pitch/compare/v2.5.0...v2.6.0) (2020-02-22)
 
 
