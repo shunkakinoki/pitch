@@ -1,3 +1,10 @@
+# [3.6.0](https://github.com/shunkakinoki/pitch/compare/v3.5.2...v3.6.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 rsync ([270af17](https://github.com/shunkakinoki/pitch/commit/270af1707e64fc9d230bf124cf8bf6d7fa90d36f))
+
 ## [3.5.2](https://github.com/shunkakinoki/pitch/compare/v3.5.1...v3.5.2) (2020-02-22)
 
 
