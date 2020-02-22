@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/shunkakinoki/pitch/compare/v3.2.0...v3.2.1) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 cex ([61afb0e](https://github.com/shunkakinoki/pitch/commit/61afb0e35b6af1a85edbd2f3d0023babc4b477d9))
+
 # [3.2.0](https://github.com/shunkakinoki/pitch/compare/v3.1.0...v3.2.0) (2020-02-22)
 
 
