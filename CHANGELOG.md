@@ -1,3 +1,10 @@
+## [3.10.1](https://github.com/shunkakinoki/pitch/compare/v3.10.0...v3.10.1) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 bug ([c667c84](https://github.com/shunkakinoki/pitch/commit/c667c84d30684db6d26f8d52319f2134d2e27677))
+
 # [3.10.0](https://github.com/shunkakinoki/pitch/compare/v3.9.0...v3.10.0) (2020-02-22)
 
 
