@@ -9,8 +9,8 @@
     "url": "https://github.com/shunkakinoki/pitch.git"
   },
   "scripts": {
-    "build": "reveal-md pitch --static public --absolute-url https://pitch.shunkakinoki.com",
-    "dev": "reveal-md pitch --absolute-url https://pitch.shunkakinoki.com",
+    "build": "reveal-md pitch/ --static public --absolute-url https://pitch.shunkakinoki.com",
+    "dev": "reveal-md pitch/ --absolute-url https://pitch.shunkakinoki.com",
     "test": "yarn lint && yarn release-test",
     "release": "semantic-release",
     "release-test": "semantic-release -d",
