@@ -1,3 +1,19 @@
+# [2.5.0](https://github.com/shunkakinoki/pitch/compare/v2.4.1...v2.5.0) (2020-02-22)
+
+
+### Bug Fixes
+
+* 🐛 bug ([d98b0a4](https://github.com/shunkakinoki/pitch/commit/d98b0a4733c20157c5fdd4978c0ee0f325882672))
+* 🐛 fix ([bcf8274](https://github.com/shunkakinoki/pitch/commit/bcf827442a6c2b7ae559cb0389494d4dc80ba16b))
+* 🐛 remove-rust ([7e69d07](https://github.com/shunkakinoki/pitch/commit/7e69d0783a1b8f9a6ecd47f9f389f315bc18b74f))
+
+
+### Features
+
+* 🎸 add ([8927166](https://github.com/shunkakinoki/pitch/commit/8927166890371b1595bcc7b0a86b7e08eb709347))
+* 🎸 fix ([30ba37b](https://github.com/shunkakinoki/pitch/commit/30ba37bc042ff90d9231ba632a4e319a033a894d))
+* 🎸 makefile ([912ecce](https://github.com/shunkakinoki/pitch/commit/912ecce5e913d8942c556453bdc4a81a0e94fade))
+
 ## [2.4.1](https://github.com/shunkakinoki/pitch/compare/v2.4.0...v2.4.1) (2020-02-21)
 
 
