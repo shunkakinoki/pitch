@@ -34,7 +34,6 @@ jobs:
           make
       - name: Build Reveal Site
         run: |
-          cp reveal.json pitch/reveal.json
           yarn run build
           touch public/.nojekyll
       - name: Run zola build
