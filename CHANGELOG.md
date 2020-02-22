@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/shunkakinoki/pitch/compare/v3.2.1...v3.3.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 ids ([a5623b9](https://github.com/shunkakinoki/pitch/commit/a5623b96e7aedc60b80ec494681b7aa0c182be41))
+
 ## [3.2.1](https://github.com/shunkakinoki/pitch/compare/v3.2.0...v3.2.1) (2020-02-22)
 
 
