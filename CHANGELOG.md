@@ -1,3 +1,10 @@
+# [3.7.0](https://github.com/shunkakinoki/pitch/compare/v3.6.0...v3.7.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 deploy ([235d407](https://github.com/shunkakinoki/pitch/commit/235d407aa17d31602a4a238e3f0c0ece4a7eac32))
+
 # [3.6.0](https://github.com/shunkakinoki/pitch/compare/v3.5.2...v3.6.0) (2020-02-22)
 
 
