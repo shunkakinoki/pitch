@@ -1,3 +1,10 @@
+# [3.10.0](https://github.com/shunkakinoki/pitch/compare/v3.9.0...v3.10.0) (2020-02-22)
+
+
+### Features
+
+* 🎸 title ([c28b0c8](https://github.com/shunkakinoki/pitch/commit/c28b0c8455b9e83e9312d95e63507f9254f97583))
+
 # [3.9.0](https://github.com/shunkakinoki/pitch/compare/v3.8.0...v3.9.0) (2020-02-22)
 
 
