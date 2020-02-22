@@ -14,6 +14,12 @@ jobs:
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
+      - name: shalzz/zola-deploy-action
+        uses: shalzz/zola-deploy-action@master
+        env:
+          TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          PAGES_BRANCH: gh-pages
+          BUILD_DIR: public
       - uses: actions/setup-node@v1
         with:
           node-version: "12.x"
@@ -29,6 +35,9 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           yarn install
+      - name: Run make
+        run: |
+          make
       - name: Build Reveal Site
         run: |
           yarn run build
