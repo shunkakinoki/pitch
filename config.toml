@@ -5,6 +5,7 @@ theme = "after-dark"
 title = "pitch"
 
 taxonomies = [
+    {name = "id", rss = true},
     {name = "categories", rss = true},
     {name = "tags", rss = true},
 ]
