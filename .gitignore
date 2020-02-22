@@ -149,3 +149,5 @@ public
 **/*.rs.bk
 
 pitch
+reveal
+target
