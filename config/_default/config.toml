@@ -1,0 +1,20 @@
+baseurl = "https://after-dark.habd.as/"
+title = "Pitch by Shun Kakinoki"
+paginate = 300
+copyright = "Copyright &copy; Shun Kakinoki. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://www.gnu.org/licenses/agpl.html\">AGPL-3.0-or-later</a>."
+
+theme = [
+  "after-dark"
+]
+
+disableLiveReload = false
+enableRobotsTXT = true
+sectionPagesMenu = "main"
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 6
+[markup.highlight]
+  noClasses = false
