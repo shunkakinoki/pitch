@@ -1,0 +1,20 @@
+[[main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
+[[main]]
+  name = "Categories"
+  weight = 2
+  identifier = "categories"
+  url = "/categories/"
+[[main]]
+  name = "Tags"
+  weight = 3
+  identifier = "tags"
+  url = "/tags/"
+[[main]]
+  name = "Search"
+  weight = 4
+  identifier = "search"
+  url = "/search/"

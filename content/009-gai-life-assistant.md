@@ -1,8 +1,8 @@
 +++
 title = "GAI Life Assistant"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 9
 +++
 
 # GAI Life Assistant

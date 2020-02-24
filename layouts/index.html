@@ -1,0 +1,52 @@
+{{ define "header" }}
+  {{ partial "masthead.html" . }}
+{{ end }}
+{{ define "title" -}}
+  Pitch by Shun Kakinoki | {{ .Params.title }}
+{{- end }}
+{{ define "main" }}
+  {{ with resources.Get "css/conditional/layout/landing.css" | minify }}
+    <style>{{ .Content | safeCSS }}</style>
+  {{ end }}
+  <header>
+    <h1>{{ .Title }}</h1>
+    <h2 class="muted">Pitch by Shun Kakinoki</h2>
+  </header>
+  <section class="grid logo">
+    <a class="cell -12of12" rel="author" target="_self" href="https://pitch.shunkakinoki.com/">
+      <svg class="shaded animated" viewBox="0 0 46 45" width="92" height="90" xmlns="http://www.w3.org/2000/svg">
+        <title>After Dark</title>
+        <path d="M.708 45L23 .416 45.292 45H.708zM35 38L23 19 11 38h24z" fill="#000"/>
+      </svg>
+    </a>
+  </section>
+  <section class="grid tagline">
+    <div class="cell -12of12">
+      <p>{{ .Description }}</p>
+    </div>
+  </section>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">{{ .Title | singularize }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <nav>
+        {{ range (.Paginator 1000).Pages.ByWeight.Reverse }}
+        <tr>
+          <td><a href="{{ .RelPermalink }}">{{ .Weight }}</a></td>
+          <td><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></td>
+        </tr>
+        {{ end }}
+      </nav>
+    </tbody>
+  </table>
+{{ end }}
+{{ define "footer" }}
+  <p>{{ partial "pagination.html" . }}</p>
+  <small class="muted">
+    {{ partial "copyright-notice.html" . }}
+  </small>
+{{ end }}

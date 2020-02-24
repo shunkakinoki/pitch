@@ -1,8 +1,8 @@
 +++
 title = "Git For Everyone"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 2
 +++
 
 # Git For Everyone

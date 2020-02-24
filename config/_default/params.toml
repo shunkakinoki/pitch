@@ -1,0 +1,8 @@
+description = "Pitch by Shun Kakinoki"
+author = "Shun Kakinoki"
+hide_author = true
+has_cookies = false
+disable_csp = true
+
+[layout.menu.main]
+  hidden = false

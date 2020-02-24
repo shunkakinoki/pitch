@@ -1,9 +1,8 @@
 +++
 title = "Terraform Nocode SaaS"
-[taxonomies]
-id = ["001"]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 1
 +++
 
 # Terraform Nocode SaaS

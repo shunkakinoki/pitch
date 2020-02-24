@@ -1,8 +1,8 @@
 +++
 title = "D2C SUSHI CUISINE"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 12
 +++
 
 # D2C SUSHI CUISINE

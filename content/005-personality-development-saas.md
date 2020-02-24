@@ -1,8 +1,8 @@
 +++
 title = "Personality Development Education Subscription SaaS"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 5
 +++
 
 # Personality Development Education Subscription SaaS
@@ -21,8 +21,7 @@ There isn't a way to teach people about personality development
 
 - No one teaches us the required social skills in life
 - Rather they are passively acquired through life in general
-- Studies suggest that personality traits contribute more to
-success than IQ
+- Studies suggest that personality traits contribute more to success than IQ
 
 ---
 
