@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/shunkakinoki/pitch/compare/v3.13.0...v4.0.0) (2020-02-24)
+
+
+### Features
+
+* 🎸 hugo ([d094eb8](https://github.com/shunkakinoki/pitch/commit/d094eb8c89114934b98ba1fefacd451e6c2204ce))
+
+
+### BREAKING CHANGES
+
+* 🧨 hugo
+
 # [3.13.0](https://github.com/shunkakinoki/pitch/compare/v3.12.0...v3.13.0) (2020-02-24)
 
 
