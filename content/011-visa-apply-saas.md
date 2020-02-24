@@ -1,8 +1,8 @@
 +++
 title = "VISA APPLICATION SAAS"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 11
 +++
 
 # VISA APPLICATION SAAS

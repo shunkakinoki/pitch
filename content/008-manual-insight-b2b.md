@@ -1,8 +1,8 @@
 +++
 title = "Manual Insight B2B"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 8
 +++
 
 # Manual Insight B2B

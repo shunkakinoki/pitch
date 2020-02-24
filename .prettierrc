@@ -2,5 +2,5 @@
   "printWidth": 100,
   "singleQuote": false,
   "tabWidth": 2,
-  "proseWrap": "always"
+  "proseWrap": "never"
 }

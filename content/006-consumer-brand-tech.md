@@ -1,8 +1,8 @@
 +++
 title = "Consumer Brand Tech"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 6
 +++
 
 # Consumer Brand Tech

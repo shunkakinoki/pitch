@@ -26,15 +26,26 @@
     </div>
   </section>
   <table>
-    <tr>
-      <th scope="col" width="25%"><a href=".">Home</a></th>
-      <th scope="col" width="25%"><a href="./categories/">Categories</a></th>
-      <th scope="col" width="25%"><a href="./tags/">Tags</a></th>
-      <th scope="col" width="25%"><a href="./search/">Search</a></th>
-    </tr>
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">{{ .Title | singularize }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      <nav>
+        {{ range (.Paginator 1000).Pages.ByWeight.Reverse }}
+        <tr>
+          <td><a href="{{ .RelPermalink }}">{{ .Weight }}</a></td>
+          <td><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></td>
+        </tr>
+        {{ end }}
+      </nav>
+    </tbody>
   </table>
 {{ end }}
 {{ define "footer" }}
+  <p>{{ partial "pagination.html" . }}</p>
   <small class="muted">
     {{ partial "copyright-notice.html" . }}
   </small>

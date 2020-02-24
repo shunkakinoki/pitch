@@ -1,8 +1,8 @@
 +++
 title = "Github App Subscription"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 4
 +++
 
 # Github App Subscription
@@ -13,9 +13,7 @@ categories = ["dev"]
 
 Democratize, Bundle, and Popularize `Github Apps`
 
-`Github Apps` are becoming an essential part of development
-More & more useful applications are introduced to the ecosystem
-It is truly the future of software development
+`Github Apps` are becoming an essential part of development More & more useful applications are introduced to the ecosystem It is truly the future of software development
 
 ---
 

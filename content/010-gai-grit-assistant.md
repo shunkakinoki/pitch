@@ -1,8 +1,8 @@
 +++
 title = "GAI Grit Assistant"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 10
 +++
 
 # GAI Grit Assistant

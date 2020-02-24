@@ -1,8 +1,8 @@
 +++
 title = "Individual Analytics Platform"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["terraform", "nocode", "rust"]
+weight = 7
 +++
 
 # Individual Analytics Platform
