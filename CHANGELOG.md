@@ -1,3 +1,12 @@
+# [3.12.0](https://github.com/shunkakinoki/pitch/compare/v3.11.0...v3.12.0) (2020-02-24)
+
+
+### Features
+
+* 🎸 assets ([58292d0](https://github.com/shunkakinoki/pitch/commit/58292d0738131abda5aa56ea5c642ccddfc45051))
+* 🎸 hugo ([064389d](https://github.com/shunkakinoki/pitch/commit/064389d355755dc408528faaf290e0f62c9c3f18))
+* 🎸 hugo ([38a394c](https://github.com/shunkakinoki/pitch/commit/38a394ca04532c796bc29bf6b82d4ab4d14f4c94))
+
 # [3.11.0](https://github.com/shunkakinoki/pitch/compare/v3.10.1...v3.11.0) (2020-02-22)
 
 
