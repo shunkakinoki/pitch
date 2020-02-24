@@ -1,3 +1,10 @@
+# [3.13.0](https://github.com/shunkakinoki/pitch/compare/v3.12.0...v3.13.0) (2020-02-24)
+
+
+### Features
+
+* 🎸 rust-index ([4195395](https://github.com/shunkakinoki/pitch/commit/41953950c98f5e62bfc397c42995e102053f0bba))
+
 # [3.12.0](https://github.com/shunkakinoki/pitch/compare/v3.11.0...v3.12.0) (2020-02-24)
 
 
