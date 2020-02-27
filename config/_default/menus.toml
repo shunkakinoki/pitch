@@ -14,6 +14,11 @@
   identifier = "tags"
   url = "/tags/"
 [[main]]
+  name = "Ideas"
+  weight = 3
+  identifier = "ideas"
+  url = "/ideas/"
+[[main]]
   name = "Search"
   weight = 4
   identifier = "search"
