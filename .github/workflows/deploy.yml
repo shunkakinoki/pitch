@@ -38,7 +38,7 @@ jobs:
           hugo-version: "latest"
           extended: true
       - name: Build Hugo Site
-        run: hugo
+        run: hugo --minify
       - name: Build Reveal Site
         run: |
           yarn run build
