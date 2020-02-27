@@ -2,7 +2,7 @@
 title = "Validate Idea Checker"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 92
 +++
 
 # Validate Idea Checker

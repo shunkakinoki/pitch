@@ -2,7 +2,7 @@
 title = "Analytics Political Science"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 42
 +++
 
 # Analytics Political Science

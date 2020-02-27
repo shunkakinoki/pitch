@@ -2,7 +2,7 @@
 title = "Kubernetes from Github"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 52
 +++
 
 # Kubernetes from Github

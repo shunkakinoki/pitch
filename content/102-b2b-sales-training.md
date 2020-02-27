@@ -2,7 +2,7 @@
 title = "B2B Sales Training"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 102
 +++
 
 # B2B Sales Training

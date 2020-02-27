@@ -2,7 +2,7 @@
 title = "PR & Issue Management Dashboard"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 88
 +++
 
 # PR & Issue Management Dashboard

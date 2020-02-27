@@ -2,7 +2,7 @@
 title = "OSS History Visualization"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 79
 +++
 
 # OSS History Visualization

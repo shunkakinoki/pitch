@@ -2,7 +2,7 @@
 title = "Todo Collaborative SaaS"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 40
 +++
 
 # Todo Collaborative SaaS

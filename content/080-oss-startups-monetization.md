@@ -2,8 +2,8 @@
 title = "OSS Startups Monetization"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
-++++
+weight = 80
++++
 
 # OSS Startups Monetization
 

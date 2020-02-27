@@ -2,7 +2,7 @@
 title = "Research Report AI"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 93
 +++
 
 # Research Report AI

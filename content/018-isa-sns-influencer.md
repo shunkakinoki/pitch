@@ -1,6 +1,6 @@
 +++
 title = "ISA SNS Influencer"
-categories = ["school"]
+categories = ["edutech"]
 tags = ["influencer", "marketing", "saas"]
 weight = 18
 +++

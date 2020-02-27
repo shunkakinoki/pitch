@@ -2,7 +2,7 @@
 title = "DevOps Automation AI"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 64
 +++
 
 # DevOps Automation AI

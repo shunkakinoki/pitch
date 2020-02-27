@@ -2,7 +2,7 @@
 title = "DevOps Github Platform"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 55
 +++
 
 # DevOps Github Platform

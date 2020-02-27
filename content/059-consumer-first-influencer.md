@@ -2,7 +2,7 @@
 title = "Consumer First Influencer"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 59
 +++
 
 # Consumer First Influencer

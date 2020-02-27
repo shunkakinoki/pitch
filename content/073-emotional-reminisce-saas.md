@@ -2,7 +2,7 @@
 title = "Emotional Reminisce SaaS"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 73
 +++
 
 # Emotional Reminisce SaaS

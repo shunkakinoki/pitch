@@ -2,7 +2,7 @@
 title = "HIV Testing Subscription"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 69
 +++
 
 # HIV Testing Subscription

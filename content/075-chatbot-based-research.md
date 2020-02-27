@@ -2,7 +2,7 @@
 title = "Chatbot First Research"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 75
 +++
 
 # Chatbot First Research

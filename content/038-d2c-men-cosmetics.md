@@ -1,8 +1,8 @@
 +++
 title = "D2C Men Cosmetics"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+categories = ["d2c"]
+tags = ["men", "cosmetics", "japan"]
+weight = 38
 +++
 
 # D2C Men Cosmetics

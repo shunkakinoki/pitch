@@ -2,7 +2,7 @@
 title = "Monitor Satisfaction Performance"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 84
 +++
 
 # Monitor Satisfaction Performance

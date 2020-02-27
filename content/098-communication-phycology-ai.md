@@ -2,7 +2,7 @@
 title = "Communication Psychology Learning"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 98
 +++
 
 # Communication Psychology Learning

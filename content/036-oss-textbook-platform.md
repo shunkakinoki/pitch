@@ -1,7 +1,7 @@
 +++
 title = "OSS Textbook Platform"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["edutech"]
+tags = ["oss", "edutech", "platform"]
 weight = 36
 +++
 

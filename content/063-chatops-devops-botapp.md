@@ -2,7 +2,7 @@
 title = "ChatOps DevOps BotApp"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 63
 +++
 
 # ChatOps DevOps BotApp

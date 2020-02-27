@@ -2,7 +2,7 @@
 title = "Blockchain OSS Maintainers"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 77
 +++
 
 # Blockchain OSS Maintainers

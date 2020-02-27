@@ -2,7 +2,7 @@
 title = "Focus Timer Wearable"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 71
 +++
 
 # Focus Timer Wearable

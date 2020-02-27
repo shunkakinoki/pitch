@@ -2,7 +2,7 @@
 title = "Life Advisor Match"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 68
 +++
 
 # Life Advisor Match

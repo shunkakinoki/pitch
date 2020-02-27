@@ -2,7 +2,7 @@
 title = "D2C Targeting Protection"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 46
 +++
 
 # D2C Targeting Protection

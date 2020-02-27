@@ -2,7 +2,7 @@
 title = "Support Challenges for Individuals"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 67
 +++
 
 # Support Challenges for Individuals

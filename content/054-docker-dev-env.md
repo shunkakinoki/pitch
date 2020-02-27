@@ -2,7 +2,7 @@
 title = "Docker Dev Env"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 54
 +++
 
 # Docker Dev Env

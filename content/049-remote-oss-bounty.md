@@ -2,7 +2,7 @@
 title = "Remote OSS Bounty"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 49
 +++
 
 # Remote OSS Bounty

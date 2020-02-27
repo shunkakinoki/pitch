@@ -2,8 +2,8 @@
 title = "D2C Japanese Botanic"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
-++++
+weight = 60
++++
 
 # D2C Japanese Botanic
 

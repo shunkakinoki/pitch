@@ -2,7 +2,7 @@
 title = "Communication Phycology AI"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 97
 +++
 
 # Communication Phycology AI

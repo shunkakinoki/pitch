@@ -2,7 +2,7 @@
 title = "Mental Health SaaS"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 56
 +++
 
 # Mental Health SaaS

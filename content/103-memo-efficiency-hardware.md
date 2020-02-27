@@ -2,7 +2,7 @@
 title = "Memo Efficiency Hardware"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 103
 +++
 
 # Memo Efficiency Hardware
