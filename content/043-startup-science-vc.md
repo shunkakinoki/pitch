@@ -1,9 +1,9 @@
 +++
 title = "Startup Science VC"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
-+++
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
+++++
 
 # Startup Science VC
 

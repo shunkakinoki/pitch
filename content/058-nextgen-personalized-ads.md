@@ -1,8 +1,8 @@
 +++
 title = "Next-gen Personalized Ads"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Next-gen Personalized Ads

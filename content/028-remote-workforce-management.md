@@ -1,8 +1,8 @@
 +++
 title = "Remote Workforce Management"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["perk", "b2b", "management"]
+weight = 28
 +++
 
 # Remote Workforce Management

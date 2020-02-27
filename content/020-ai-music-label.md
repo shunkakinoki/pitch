@@ -1,8 +1,8 @@
 +++
 title = "AI Music Label"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["ai"]
+tags = ["music", "brand", "content"]
+weight = 20
 +++
 
 # AI Music Label

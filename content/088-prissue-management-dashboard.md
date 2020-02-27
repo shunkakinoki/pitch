@@ -1,8 +1,8 @@
 +++
 title = "PR & Issue Management Dashboard"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # PR & Issue Management Dashboard

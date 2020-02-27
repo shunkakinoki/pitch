@@ -1,8 +1,8 @@
 +++
 title = "Self-Driving Key SaaS (Tackle Potential Problems)"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Self-Driving Key SaaS (Tackle Potential Problems)

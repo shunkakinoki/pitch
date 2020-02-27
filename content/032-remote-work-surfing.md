@@ -1,8 +1,8 @@
 +++
 title = "Remote work surfing"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["hr"]
+tags = ["remote", "hrtech", "perk"]
+weight = 32
 +++
 
 # Remote work surfing

@@ -1,8 +1,8 @@
 +++
 title = "Personalized Ads on Seats of Uber"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["ad"]
+tags = ["hardware", "adtech", "sharing"]
+weight = 19
 +++
 
 # Personalized Ads on Seats of Uber

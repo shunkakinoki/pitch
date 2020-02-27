@@ -1,8 +1,8 @@
 +++
 title = "Presentation Video Software"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["video", "presentation", "video-editing"]
+weight = 34
 +++
 
 # Presentation Video Software

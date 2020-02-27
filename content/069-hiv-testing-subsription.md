@@ -1,8 +1,8 @@
 +++
 title = "HIV Testing Subscription"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # HIV Testing Subscription

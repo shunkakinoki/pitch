@@ -1,8 +1,8 @@
 +++
 title = "OSS History Visualization"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # OSS History Visualization

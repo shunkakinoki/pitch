@@ -1,8 +1,8 @@
 +++
 title = "Validate Idea Checker"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Validate Idea Checker

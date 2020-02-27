@@ -1,8 +1,8 @@
 +++
 title = "SNS Team SaaS"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["sns", "team", "work"]
+weight = 31
 +++
 
 # SNS Team SaaS

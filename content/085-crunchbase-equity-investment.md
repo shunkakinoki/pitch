@@ -1,8 +1,8 @@
 +++
 title = "Startup Equity Investment Platform with Crunchbase analytics"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Startup Equity Investment Platform with Crunchbase analytics

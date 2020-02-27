@@ -1,10 +1,9 @@
 +++
 title = "Dev Team SaaS"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
 categories = ["dev"]
+tags = ["devops", "team", "saas"]
+weight = 21
 +++
-
 # Dev Team SaaS
 
 ---

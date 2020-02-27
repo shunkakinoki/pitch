@@ -1,8 +1,8 @@
 +++
 title = "D2C Targeting Protection"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # D2C Targeting Protection

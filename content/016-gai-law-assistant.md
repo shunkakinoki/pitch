@@ -1,8 +1,8 @@
 +++
 title = "GAI Legal Assistant"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 16
 +++
 
 # GAI Legal Assistant

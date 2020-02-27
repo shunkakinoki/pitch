@@ -1,8 +1,8 @@
 +++
 title = "O2O Classwork SaaS"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["edutech"]
+tags = ["o2o", "classwork", "edutech"]
+weight = 25
 +++
 
 # O2O Classwork SaaS

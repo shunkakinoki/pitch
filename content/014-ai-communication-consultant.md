@@ -1,8 +1,8 @@
 +++
 title = "AI Communication Consultant"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["ai"]
+tags = ["consultant", "communication", "saas"]
+weight = 14
 +++
 
 # AI Communication Consultant

@@ -1,8 +1,8 @@
 +++
 title = "Decision Assistance AI"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Decision Assistance AI

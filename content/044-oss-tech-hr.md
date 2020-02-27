@@ -1,8 +1,8 @@
 +++
 title = "OSS Tech HR"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # OSS Tech HR

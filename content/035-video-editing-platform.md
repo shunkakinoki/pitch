@@ -1,8 +1,8 @@
 +++
 title = "Video Editing Platform"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["video-editing", "creators", "platform"]
+weight = 35
 +++
 
 # Video Editing Platform

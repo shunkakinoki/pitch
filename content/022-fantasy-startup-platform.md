@@ -1,8 +1,8 @@
 +++
 title = "Fantasy Startup Platform"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["startup", "fantasy", "ecosystem"]
+weight = 22
 +++
 
 # Fantasy Startup Platform

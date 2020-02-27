@@ -1,8 +1,8 @@
 +++
 title = "E-learning Book Video"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["edutech"]
+tags = ["video", "book", "assistant"]
+weight = 27
 +++
 
 # E-learning Book Video
