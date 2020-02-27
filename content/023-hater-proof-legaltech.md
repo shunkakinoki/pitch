@@ -1,8 +1,8 @@
 +++
 title = "Hater Proof Legaltech"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["b2b"]
+tags = ["protection", "legaltech", "sns"]
+weight = 23
 +++
 
 # Hater Proof Legaltech

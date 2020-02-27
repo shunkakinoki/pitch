@@ -1,7 +1,7 @@
 +++
 title = "GAI Grit Assistant"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["gai"]
+tags = ["saas", "assistant", "lifeops"]
 weight = 10
 +++
 

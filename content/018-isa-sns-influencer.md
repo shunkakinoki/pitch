@@ -1,8 +1,8 @@
 +++
 title = "ISA SNS Influencer"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["school"]
+tags = ["influencer", "marketing", "saas"]
+weight = 18
 +++
 
 # ISA SNS Influencer

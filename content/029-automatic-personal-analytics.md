@@ -1,8 +1,8 @@
 +++
 title = "Automatic Personal Analytics"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["ai"]
+tags = ["lifeops", "analytics", "personal"]
+weight = 29
 +++
 
 # Automatic Personal Analytics

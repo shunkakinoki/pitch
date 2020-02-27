@@ -1,8 +1,8 @@
 +++
 title = "D2C Japanese 100 Yen Store"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["d2c"]
+tags = ["japan", "brand", "ec"]
+weight = 17
 +++
 
 # D2C Japanese 100 Yen Store

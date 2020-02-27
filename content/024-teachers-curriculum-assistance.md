@@ -1,8 +1,8 @@
 +++
 title = "Teacher's Curriculum Assistance"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["edutech"]
+tags = ["saas", "education", "assistant"]
+weight = 24
 +++
 
 # Teacher's Curriculum Assistance

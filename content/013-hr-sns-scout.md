@@ -1,8 +1,8 @@
 +++
 title = "HR SNS Scout"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["saas"]
+tags = ["hr", "ai", "analytics"]
+weight = 13
 +++
 
 # HR SNS Scout

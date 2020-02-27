@@ -1,7 +1,7 @@
 +++
 title = "Terraform Nocode SaaS"
 categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+tags = ["terraform", "nocode", "devops"]
 weight = 1
 +++
 

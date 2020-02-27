@@ -1,8 +1,8 @@
 +++
 title = "Enterprise D2C Consumer"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Enterprise D2C Consumer

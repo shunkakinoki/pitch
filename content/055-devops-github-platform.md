@@ -1,8 +1,8 @@
 +++
 title = "DevOps Github Platform"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # DevOps Github Platform

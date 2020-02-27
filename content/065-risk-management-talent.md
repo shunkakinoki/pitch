@@ -1,8 +1,8 @@
 +++
 title = "Risk Management Platform for Industry Leading Talent"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Risk Management Platform for Industry Leading Talent

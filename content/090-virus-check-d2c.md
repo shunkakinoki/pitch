@@ -1,8 +1,8 @@
 +++
 title = "Virus Checking D2C"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["regtech", "legaltech", "assistant"]
+weight = 36
 +++
 
 # Virus Checking D2C

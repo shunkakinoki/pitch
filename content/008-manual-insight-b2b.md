@@ -1,7 +1,7 @@
 +++
 title = "Manual Insight B2B"
 categories = ["b2b"]
-tags = ["manual", "saas", "edtech"]
+tags = ["manual", "saas", "edutech"]
 weight = 8
 +++
 

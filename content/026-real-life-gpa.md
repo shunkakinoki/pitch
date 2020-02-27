@@ -1,8 +1,8 @@
 +++
 title = "Real Life GPA"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["gai"]
+tags = ["analytics", "ai", "saas"]
+weight = 26
 +++
 
 # Real Life GPA

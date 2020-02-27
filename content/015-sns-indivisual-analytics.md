@@ -1,8 +1,8 @@
 +++
 title = "SNS Individual Analytics"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["ai"]
+tags = ["personal", "analytics", "sns"]
+weight = 15
 +++
 
 # SNS Individual Analytics

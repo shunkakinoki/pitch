@@ -1,8 +1,8 @@
 +++
 title = "Family Specific BC"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["bc"]
+tags = ["family", "bc", "trust"]
+weight = 33
 +++
 
 # Family Specific BC

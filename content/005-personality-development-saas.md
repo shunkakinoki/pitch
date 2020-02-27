@@ -1,7 +1,7 @@
 +++
 title = "Personality Development Education Subscription SaaS"
 categories = ["saas"]
-tags = ["personal", "lifeops", "edtech"]
+tags = ["personal", "lifeops", "edutech"]
 weight = 5
 +++
 

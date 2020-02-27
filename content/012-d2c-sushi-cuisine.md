@@ -1,7 +1,7 @@
 +++
 title = "D2C SUSHI CUISINE"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["d2c"]
+tags = ["food", "japan", "consumer"]
 weight = 12
 +++
 

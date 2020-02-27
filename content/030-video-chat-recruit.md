@@ -1,8 +1,8 @@
 +++
 title = "Video Chat Recruitment"
-[taxonomies]
-tags = ["terraform", "nocode", "rust"]
-categories = ["dev"]
+categories = ["hr"]
+tags = ["video", "hrtech", "b2b"]
+weight = 30
 +++
 
 # Video Chat Recruitment
