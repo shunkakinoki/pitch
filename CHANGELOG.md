@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/shunkakinoki/pitch/compare/v5.1.1...v5.2.0) (2020-02-27)
+
+
+### Features
+
+* 🎸 menu ([630937b](https://github.com/shunkakinoki/pitch/commit/630937be235b0f561da58d5c1458fabc511d249d))
+
 ## [5.1.1](https://github.com/shunkakinoki/pitch/compare/v5.1.0...v5.1.1) (2020-02-27)
 
 
