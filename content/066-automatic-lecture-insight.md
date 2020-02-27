@@ -1,7 +1,7 @@
 +++
 title = "Automatic Lecture Insight"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["edutech"]
+tags = ["insight", "lecture", "ai"]
 weight = 66
 +++
 

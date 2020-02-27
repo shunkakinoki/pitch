@@ -1,7 +1,7 @@
 +++
 title = "Enterprise D2C Consumer"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["d2c"]
+tags = ["consumer", "ec", "enterprise"]
 weight = 91
 +++
 

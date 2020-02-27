@@ -1,7 +1,7 @@
 +++
 title = "Kubernetes from Github"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["kubernetes", "devops", "dev"]
 weight = 52
 +++
 

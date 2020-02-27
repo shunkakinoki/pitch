@@ -1,11 +1,11 @@
 +++
 title = "Personal Agent API"
 categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+tags = ["personal", "agent", "api"]
 weight = 99
 +++
 
-# Personal Agent API
+# Personal Agent API (AON)
 
 ---
 

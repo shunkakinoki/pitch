@@ -1,7 +1,7 @@
 +++
 title = "LifeOps Analytics Platform"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["lifeops"]
+tags = ["lifeops", "analytics", "gai"]
 weight = 62
 +++
 

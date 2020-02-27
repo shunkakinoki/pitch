@@ -1,7 +1,7 @@
 +++
 title = "Next-gen Personalized Ads"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["adtech", "personal", "ai"]
 weight = 58
 +++
 

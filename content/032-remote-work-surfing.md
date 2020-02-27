@@ -1,6 +1,6 @@
 +++
 title = "Remote work surfing"
-categories = ["hr"]
+categories = ["hrtech"]
 tags = ["remote", "hrtech", "perk"]
 weight = 32
 +++

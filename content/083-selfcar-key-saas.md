@@ -1,7 +1,7 @@
 +++
 title = "Self-Driving Key SaaS (Tackle Potential Problems)"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["key", "self-driving", "maas"]
 weight = 83
 +++
 

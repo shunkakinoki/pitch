@@ -1,7 +1,7 @@
 +++
 title = "Chatbot First Research"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["research", "chatbot", "platform"]
 weight = 75
 +++
 

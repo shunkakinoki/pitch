@@ -1,7 +1,7 @@
 +++
 title = "Decision Assistance AI"
 categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+tags = ["decision", "personal", "assistant"]
 weight = 51
 +++
 

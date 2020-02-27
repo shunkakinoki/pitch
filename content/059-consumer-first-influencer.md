@@ -1,7 +1,7 @@
 +++
 title = "Consumer First Influencer"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["influencer", "marketing", "consumer"]
 weight = 59
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Slack for Video"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["video", "chat", "work"]
 weight = 81
 +++
 

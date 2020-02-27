@@ -1,7 +1,7 @@
 +++
 title = "OSS Tech HR"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["hrtech"]
+tags = ["oss", "hrtech", "dev"]
 weight = 44
 +++
 

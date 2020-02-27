@@ -1,7 +1,7 @@
 +++
 title = "Validate Idea Checker"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["idea", "validation", "checker"]
 weight = 92
 +++
 

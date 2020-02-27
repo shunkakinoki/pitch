@@ -1,7 +1,7 @@
 +++
 title = "Video Interface Collaboration"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["video", "communication", "collaboration"]
 weight = 57
 +++
 

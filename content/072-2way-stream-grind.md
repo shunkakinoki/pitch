@@ -1,7 +1,7 @@
 +++
 title = "2-way Stream Grind"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["interactive", "grind", "stream"]
 weight = 72
 +++
 

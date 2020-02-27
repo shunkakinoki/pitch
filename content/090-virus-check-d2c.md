@@ -1,7 +1,7 @@
 +++
 title = "Virus Checking D2C"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["d2c"]
+tags = ["medtech", "virus", "health"]
 weight = 90
 +++
 

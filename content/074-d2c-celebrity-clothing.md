@@ -1,7 +1,7 @@
 +++
 title = "D2C Celebrity Clothing"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["d2c"]
+tags = ["celebrity", "fashion", "clothing"]
 weight = 74
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Monitor Satisfaction Performance"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["b2b"]
+tags = ["analytics", "monitor", "cx"]
 weight = 84
 +++
 

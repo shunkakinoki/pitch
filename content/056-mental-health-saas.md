@@ -1,7 +1,7 @@
 +++
 title = "Mental Health SaaS"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["mental", "health", "saas"]
 weight = 56
 +++
 

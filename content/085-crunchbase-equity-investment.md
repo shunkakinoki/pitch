@@ -1,7 +1,7 @@
 +++
 title = "Startup Equity Investment Platform with Crunchbase analytics"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["analytics", "equity", "platform"]
 weight = 85
 +++
 

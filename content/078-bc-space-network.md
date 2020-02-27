@@ -1,7 +1,7 @@
 +++
 title = "Blockchain Space Network"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["bc"]
+tags = ["space", "network", "connection"]
 weight = 78
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Distributed Gov Platform"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["govtech", "politics", "platform"]
 weight = 96
 +++
 

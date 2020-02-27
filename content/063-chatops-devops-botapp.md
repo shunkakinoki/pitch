@@ -1,7 +1,7 @@
 +++
 title = "ChatOps DevOps BotApp"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["chatops", "devops", "bot"]
 weight = 63
 +++
 

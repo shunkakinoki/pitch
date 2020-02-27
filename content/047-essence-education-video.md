@@ -1,7 +1,7 @@
 +++
 title = "Essence Education Video"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["edutech"]
+tags = ["video", "edutech", "essence"]
 weight = 47
 +++
 

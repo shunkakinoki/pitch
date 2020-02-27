@@ -1,7 +1,7 @@
 +++
 title = "Risk Management Platform for Industry Leading Talent"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["risk-management", "talent", "hrtech"]
 weight = 65
 +++
 
