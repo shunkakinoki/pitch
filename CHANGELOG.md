@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/shunkakinoki/pitch/compare/v5.0.5...v5.1.0) (2020-02-27)
+
+
+### Features
+
+* 🎸 tag ([4cdf25c](https://github.com/shunkakinoki/pitch/commit/4cdf25c7024ee525cc29a5da3be3582f6cf602ba))
+
 ## [5.0.5](https://github.com/shunkakinoki/pitch/compare/v5.0.4...v5.0.5) (2020-02-27)
 
 
