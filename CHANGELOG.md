@@ -1,3 +1,10 @@
+## [5.0.4](https://github.com/shunkakinoki/pitch/compare/v5.0.3...v5.0.4) (2020-02-27)
+
+
+### Bug Fixes
+
+* 🐛 search-bug ([e1181fd](https://github.com/shunkakinoki/pitch/commit/e1181fd1a7d79144dd683bdc2b0d2c814aded7da))
+
 ## [5.0.3](https://github.com/shunkakinoki/pitch/compare/v5.0.2...v5.0.3) (2020-02-27)
 
 
