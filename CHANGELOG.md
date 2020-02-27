@@ -1,3 +1,10 @@
+## [5.0.3](https://github.com/shunkakinoki/pitch/compare/v5.0.2...v5.0.3) (2020-02-27)
+
+
+### Bug Fixes
+
+* 🐛 numbering ([f47586d](https://github.com/shunkakinoki/pitch/commit/f47586dcd8cfee8ff217de0115b37fc8e00a5a5a))
+
 ## [5.0.2](https://github.com/shunkakinoki/pitch/compare/v5.0.1...v5.0.2) (2020-02-27)
 
 
