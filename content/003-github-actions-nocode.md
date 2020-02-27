@@ -1,7 +1,7 @@
 +++
 title = "Github Actions Nocode"
 categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+tags = ["devops", "ci/cd", "nocode"]
 weight = 3
 +++
 
@@ -13,8 +13,7 @@ weight = 3
 
 Enhance the Power of `GitHub Actions`
 
-Given the platform, power, size of `Github` I truly believe that github actions will be a
-gamechanger in automation/CICD/DevOps
+Given the platform, power, size of `Github` I truly believe that github actions will be a gamechanger in automation/CICD/DevOps
 
 ---
 

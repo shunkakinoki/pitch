@@ -1,7 +1,7 @@
 +++
 title = "Personality Development Education Subscription SaaS"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["saas"]
+tags = ["personal", "lifeops", "edtech"]
 weight = 5
 +++
 

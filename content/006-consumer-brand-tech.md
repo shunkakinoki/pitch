@@ -1,7 +1,7 @@
 +++
 title = "Consumer Brand Tech"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["saas"]
+tags = ["brand", "b2c", "d2c"]
 weight = 6
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Github App Subscription"
 categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+tags = ["github", "subscription", "devops"]
 weight = 4
 +++
 
