@@ -1,7 +1,7 @@
 +++
 title = "HR SNS Scout"
 categories = ["saas"]
-tags = ["hr", "ai", "analytics"]
+tags = ["hrtech", "ai", "analytics"]
 weight = 13
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Law Understand Assistant"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["legaltech"]
+tags = ["legaltech", "personal", "assistant"]
 weight = 45
 +++
 

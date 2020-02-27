@@ -1,7 +1,7 @@
 +++
 title = "Life Advisor Match"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["lifeops", "advisor", "match"]
 weight = 68
 +++
 

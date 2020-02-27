@@ -1,7 +1,7 @@
 +++
 title = "Youtube Collaborating on Autopilot"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["video-editing", "team", "productivity"]
 weight = 41
 +++
 

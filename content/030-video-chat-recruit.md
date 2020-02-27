@@ -1,6 +1,6 @@
 +++
 title = "Video Chat Recruitment"
-categories = ["hr"]
+categories = ["hrtech"]
 tags = ["video", "hrtech", "b2b"]
 weight = 30
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Ring Temperature Health"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["hardware"]
+tags = ["health", "medtech", "personal"]
 weight = 89
 +++
 

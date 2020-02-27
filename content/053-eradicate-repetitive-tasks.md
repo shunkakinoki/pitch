@@ -1,7 +1,7 @@
 +++
 title = "Eradicate Repetitive Tasks"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["nlp", "ai", "tasks"]
 weight = 53
 +++
 

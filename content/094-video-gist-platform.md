@@ -1,7 +1,7 @@
 +++
 title = "Video Gist Platform"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["video", "insight", "platform"]
 weight = 94
 +++
 

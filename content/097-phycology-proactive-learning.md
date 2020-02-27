@@ -1,7 +1,7 @@
 +++
-title = "Communication Phycology AI"
+title = "Communication Psychology AI"
 categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+tags = ["communication", "psychology", "personal"]
 weight = 97
 +++
 

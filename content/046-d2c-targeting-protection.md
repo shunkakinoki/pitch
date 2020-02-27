@@ -1,7 +1,7 @@
 +++
 title = "D2C Targeting Protection"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["protection", "adtech", "ai"]
 weight = 46
 +++
 

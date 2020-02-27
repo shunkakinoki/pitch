@@ -1,7 +1,7 @@
 +++
 title = "Club O2O Queue Social Music App"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["saas"]
+tags = ["entertainment", "music", "social"]
 weight = 82
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Engineering Cycle Chatbot"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["chatbot", "devops", "cycle"]
 weight = 87
 +++
 

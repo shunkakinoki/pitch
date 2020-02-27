@@ -1,7 +1,7 @@
 +++
 title = "Remote Team Distribution"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["hrtech"]
+tags = ["team", "remote", "dev"]
 weight = 48
 +++
 

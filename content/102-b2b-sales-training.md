@@ -1,7 +1,7 @@
 +++
 title = "B2B Sales Training"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["b2b"]
+tags = ["sales", "edutech", "training"]
 weight = 102
 +++
 

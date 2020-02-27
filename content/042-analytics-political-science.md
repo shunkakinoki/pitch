@@ -1,7 +1,7 @@
 +++
 title = "Analytics Political Science"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["analytics", "risk-management", "assistant"]
 weight = 42
 +++
 

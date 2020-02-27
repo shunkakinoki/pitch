@@ -1,6 +1,6 @@
 +++
 title = "Trial HR Revolution"
-categories = ["hr"]
+categories = ["hrtech"]
 tags = ["hrtech", "saas", "trial"]
 weight = 39
 +++

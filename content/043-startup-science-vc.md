@@ -1,7 +1,7 @@
 +++
 title = "Startup Science VC"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["analytics", "ai", "vc"]
 weight = 43
 +++
 

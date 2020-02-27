@@ -1,7 +1,7 @@
 +++
 title = "Stealth Startup Monitoring"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["ai"]
+tags = ["startup", "monitoring", "startup"]
 weight = 86
 +++
 

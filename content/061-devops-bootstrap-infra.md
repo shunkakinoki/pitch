@@ -1,7 +1,7 @@
 +++
 title = "DevOps Bootstrap Infra"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["infrastructure", "devops", "bootstrap"]
 weight = 61
 +++
 

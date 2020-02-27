@@ -1,7 +1,7 @@
 +++
 title = "PR & Issue Management Dashboard"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["oss", "devops", "management"]
 weight = 88
 +++
 

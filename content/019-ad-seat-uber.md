@@ -1,6 +1,6 @@
 +++
 title = "Personalized Ads on Seats of Uber"
-categories = ["ad"]
+categories = ["adtech"]
 tags = ["hardware", "adtech", "sharing"]
 weight = 19
 +++

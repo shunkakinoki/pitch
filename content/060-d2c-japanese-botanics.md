@@ -1,7 +1,7 @@
 +++
 title = "D2C Japanese Botanic"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["d2c"]
+tags = ["japan", "botanic", "mental"]
 weight = 60
 +++
 

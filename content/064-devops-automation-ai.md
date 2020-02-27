@@ -1,7 +1,7 @@
 +++
 title = "DevOps Automation AI"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["devops", "automation", "ai"]
 weight = 64
 +++
 

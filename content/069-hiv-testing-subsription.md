@@ -1,7 +1,7 @@
 +++
 title = "HIV Testing Subscription"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["medtech"]
+tags = ["health", "hiv", "subscription"]
 weight = 69
 +++
 

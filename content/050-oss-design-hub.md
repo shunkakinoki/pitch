@@ -1,7 +1,7 @@
 +++
 title = "OSS Design Hub"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
+categories = ["dev"]
+tags = ["design", "oss", "hub"]
 weight = 50
 +++
 
