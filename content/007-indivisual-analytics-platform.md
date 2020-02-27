@@ -1,7 +1,7 @@
 +++
 title = "Individual Analytics Platform"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["saas"]
+tags = ["lifeops", "analytics", "democratize"]
 weight = 7
 +++
 

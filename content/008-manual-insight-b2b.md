@@ -1,7 +1,7 @@
 +++
 title = "Manual Insight B2B"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["b2b"]
+tags = ["manual", "saas", "edtech"]
 weight = 8
 +++
 

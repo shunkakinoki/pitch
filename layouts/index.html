@@ -39,7 +39,7 @@
     </thead>
     <tbody>
       <nav>
-        {{ range (.Paginator 1000).Pages.ByWeight.Reverse }}
+        {{ range (.Paginate (.Pages.ByWeight.Reverse)).Pages }}
         <tr>
           <td><a href="{{ .RelPermalink }}">{{ .Weight }}</a></td>
           <td><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></td>

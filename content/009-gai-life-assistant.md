@@ -1,7 +1,7 @@
 +++
 title = "GAI Life Assistant"
-categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+categories = ["gai"]
+tags = ["lifeops", "saas", "assistant"]
 weight = 9
 +++
 

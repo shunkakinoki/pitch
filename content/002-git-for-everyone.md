@@ -1,7 +1,7 @@
 +++
 title = "Git For Everyone"
 categories = ["dev"]
-tags = ["terraform", "nocode", "rust"]
+tags = ["git", "oss", "utility"]
 weight = 2
 +++
 
@@ -12,10 +12,6 @@ weight = 2
 ## Mission
 
 Democratize `git`
-
----
-
-I truly believe that `git` should be used for any purpose
 
 - business writing
 - knowledge sharing
