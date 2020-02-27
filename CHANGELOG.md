@@ -1,3 +1,11 @@
+## [5.0.1](https://github.com/shunkakinoki/pitch/compare/v5.0.0...v5.0.1) (2020-02-27)
+
+
+### Bug Fixes
+
+* 🐛 release ([48d0c0a](https://github.com/shunkakinoki/pitch/commit/48d0c0a735e52f6e0e8ad862bb9e767f39df5571))
+* 🐛 release ([148da0e](https://github.com/shunkakinoki/pitch/commit/148da0ebbdad1724db82c6a11a8ea3c4d29208a2))
+
 # [5.0.0](https://github.com/shunkakinoki/pitch/compare/v4.0.0...v5.0.0) (2020-02-27)
 
 
