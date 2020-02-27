@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/shunkakinoki/pitch/compare/v5.5.0...v6.0.0) (2020-02-27)
+
+
+### Bug Fixes
+
+* 🐛 weight ([de40fb0](https://github.com/shunkakinoki/pitch/commit/de40fb07731ffcda706721e3b058db458d51ff78))
+
+
+### BREAKING CHANGES
+
+* 🧨 bug weight > 0
+
 # [5.5.0](https://github.com/shunkakinoki/pitch/compare/v5.4.0...v5.5.0) (2020-02-27)
 
 
