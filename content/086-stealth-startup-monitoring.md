@@ -2,7 +2,7 @@
 title = "Stealth Startup Monitoring"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 86
 +++
 
 # Stealth Startup Monitoring

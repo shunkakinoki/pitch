@@ -2,7 +2,7 @@
 title = "Ring Temperature Health"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 89
 +++
 
 # Ring Temperature Health

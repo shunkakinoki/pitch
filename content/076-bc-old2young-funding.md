@@ -2,7 +2,7 @@
 title = "Blockchain Old2Young Funding"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 76
 +++
 
 # Blockchain Old2Young Funding

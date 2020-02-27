@@ -2,7 +2,7 @@
 title = "Enterprise D2C Consumer"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 91
 +++
 
 # Enterprise D2C Consumer

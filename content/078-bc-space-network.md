@@ -2,7 +2,7 @@
 title = "Blockchain Space Network"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 78
 +++
 
 # Blockchain Space Network

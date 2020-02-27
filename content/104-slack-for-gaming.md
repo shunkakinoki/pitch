@@ -2,7 +2,7 @@
 title = "Slack for Gaming"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 104
 +++
 
 # Slack for Gaming

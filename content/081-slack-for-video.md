@@ -2,7 +2,7 @@
 title = "Slack for Video"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 81
 +++
 
 # Slack for Video

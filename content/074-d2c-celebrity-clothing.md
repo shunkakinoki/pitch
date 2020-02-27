@@ -2,7 +2,7 @@
 title = "D2C Celebrity Clothing"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 74
 +++
 
 # D2C Celebrity Clothing

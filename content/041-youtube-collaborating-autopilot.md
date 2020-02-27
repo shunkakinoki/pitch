@@ -2,7 +2,7 @@
 title = "Youtube Collaborating on Autopilot"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 41
 +++
 
 # Youtube Collaborating on Autopilot

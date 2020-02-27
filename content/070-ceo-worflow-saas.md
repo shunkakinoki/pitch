@@ -2,7 +2,7 @@
 title = "CEO Workflow SaaS"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 70
 +++
 
 # CEO Workflow SaaS

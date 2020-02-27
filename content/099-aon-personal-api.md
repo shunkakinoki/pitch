@@ -2,7 +2,7 @@
 title = "Personal Agent API"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 99
 +++
 
 # Personal Agent API

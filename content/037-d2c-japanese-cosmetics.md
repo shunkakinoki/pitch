@@ -1,8 +1,8 @@
 +++
 title = "D2C Japanese Cosmetics"
-categories = ["gai"]
-tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+categories = ["d2c"]
+tags = ["japan", "cosmetics", "beauty"]
+weight = 37
 +++
 
 # D2C Japanese Cosmetics

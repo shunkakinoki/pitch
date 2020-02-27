@@ -2,7 +2,7 @@
 title = "Eradicate Repetitive Tasks"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 53
 +++
 
 # Eradicate Repetitive Tasks

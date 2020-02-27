@@ -2,7 +2,7 @@
 title = "2-way Stream Grind"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 72
 +++
 
 # 2-way Stream Grind

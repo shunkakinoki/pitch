@@ -2,7 +2,7 @@
 title = "Risk Management Platform for Industry Leading Talent"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 65
 +++
 
 # Risk Management Platform for Industry Leading Talent

@@ -2,7 +2,7 @@
 title = "Automatic Lecture Insight"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 66
 +++
 
 # Automatic Lecture Insight

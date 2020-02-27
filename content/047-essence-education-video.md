@@ -2,7 +2,7 @@
 title = "Essence Education Video"
 categories = ["gai"]
 tags = ["regtech", "legaltech", "assistant"]
-weight = 36
+weight = 47
 +++
 
 # Essence Education Video
