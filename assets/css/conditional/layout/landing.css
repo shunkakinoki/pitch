@@ -34,8 +34,10 @@ nav[itemtype*="SiteNavigationElement"]:focus-within {
 }
 .animated {
   /* FIXME: Animation disabled due to browser conflict with Web Miner */
-  animation: reveal 2s both;
-  opacity: 1; /* remove with fix */
+  animation: reveal 3s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  opacity: 1;
   filter: var(--logo-animation-filter-end); /* remove with fix */
 }
 @keyframes reveal {
