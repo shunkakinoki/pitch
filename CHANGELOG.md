@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/shunkakinoki/pitch/compare/v4.0.0...v5.0.0) (2020-02-27)
+
+
+### Features
+
+* 🎸 remove-ja ([ef9c5da](https://github.com/shunkakinoki/pitch/commit/ef9c5da74639b46bdd44ba6cbf1eedc7d9f4b79c))
+
+
+### BREAKING CHANGES
+
+* 🧨 japan dropped media
+
 # [4.0.0](https://github.com/shunkakinoki/pitch/compare/v3.13.0...v4.0.0) (2020-02-24)
 
 
