@@ -1,4 +1,4 @@
 +++
-title = "Ranking"
+title = "Rankings"
 weight = -1
 +++
