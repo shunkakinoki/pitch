@@ -19,10 +19,10 @@
   identifier = "ideas"
   url = "/ideas/"
 [[main]]
-  name = "Ranking"
+  name = "Rankings"
   weight = 4
-  identifier = "ranking"
-  url = "/ranking/"
+  identifier = "rankings"
+  url = "/rankings/"
 [[main]]
   name = "Search"
   weight = 5
