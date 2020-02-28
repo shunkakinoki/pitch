@@ -1,3 +1,10 @@
+# [6.2.0](https://github.com/shunkakinoki/pitch/compare/v6.1.0...v6.2.0) (2020-02-28)
+
+
+### Features
+
+* 🎸 ranking ([0f50b3e](https://github.com/shunkakinoki/pitch/commit/0f50b3e0a785b86b55ac391bae5605917f690389))
+
 # [6.1.0](https://github.com/shunkakinoki/pitch/compare/v6.0.2...v6.1.0) (2020-02-28)
 
 
