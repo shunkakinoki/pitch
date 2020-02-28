@@ -1,3 +1,10 @@
+## [6.2.2](https://github.com/shunkakinoki/pitch/compare/v6.2.1...v6.2.2) (2020-02-28)
+
+
+### Performance Improvements
+
+* ⚡️ 115 ([31f1596](https://github.com/shunkakinoki/pitch/commit/31f1596a24a0ad9593b28abbd80db8d59f6767f5))
+
 ## [6.2.1](https://github.com/shunkakinoki/pitch/compare/v6.2.0...v6.2.1) (2020-02-28)
 
 
