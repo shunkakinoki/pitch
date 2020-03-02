@@ -1,3 +1,10 @@
+# [6.3.0](https://github.com/shunkakinoki/pitch/compare/v6.2.2...v6.3.0) (2020-03-02)
+
+
+### Features
+
+* 🎸 prettier ([85ff095](https://github.com/shunkakinoki/pitch/commit/85ff095cb2236c1dbf5633e38a9d839bd9207d18))
+
 ## [6.2.2](https://github.com/shunkakinoki/pitch/compare/v6.2.1...v6.2.2) (2020-02-28)
 
 
