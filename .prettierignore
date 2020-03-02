@@ -1,8 +1,1 @@
-node_modules
-.next
-**/.cache
-public
-yarn.lock
-_static
-pitch
-reveal
+.gitignore
