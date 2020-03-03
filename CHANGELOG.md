@@ -1,3 +1,10 @@
+# [6.5.0](https://github.com/shunkakinoki/pitch/compare/v6.4.0...v6.5.0) (2020-03-03)
+
+
+### Features
+
+* 🎸 new-pagination-env ([5cf3574](https://github.com/shunkakinoki/pitch/commit/5cf357490acdcd3723222d76052148fa21a13dbd))
+
 # [6.4.0](https://github.com/shunkakinoki/pitch/compare/v6.3.0...v6.4.0) (2020-03-03)
 
 
