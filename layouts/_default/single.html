@@ -1,23 +1,23 @@
 {{ define "title" -}}
-  {{ .Title }} | {{ .Site.Title }}
+{{ .Title }} | {{ .Site.Title }}
 {{- end }}
 {{ define "header" }}
-  {{ partial "masthead.html" . }}
+{{ partial "masthead.html" . }}
 {{ end }}
 {{ define "main" }}
-  <h1>#&nbsp;{{ .Weight }}.&nbsp;</h1>
-  {{ .Content }}
-    <hr>
-    <p>### Pitch</p>
-    <ul>
-      <li><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></li>
-    </ul>
-  {{ partial "tags.html" .}}
-  {{ partial "categories.html" .}}
-  {{ partial "comments.html" .}}
+<h1>#&nbsp;{{ .Weight }}.&nbsp;</h1>
+{{ .Content }}
+<hr>
+<p>### Pitch</p>
+<ul>
+  <li><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></li>
+</ul>
+{{ partial "tags.html" .}}
+{{ partial "categories.html" .}}
+{{ partial "comments.html" .}}
 {{ end }}
 {{ define "footer" }}
-  <small class="muted">
-    {{ partial "copyright-notice.html" . }}
-  </small>
+<small class="muted">
+  {{ partial "copyright-notice.html" . }}
+</small>
 {{ end }}
