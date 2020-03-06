@@ -1,6 +1,7 @@
 baseurl = "https://pitch.shunkakinoki.com/"
 title = "Pitch by Shun Kakinoki"
 paginate = 30
+copyright = "Copyright&copy; Shun Kakinoki"
 
 theme = [
   "after-dark"
