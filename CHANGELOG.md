@@ -1,3 +1,10 @@
+## [6.5.1](https://github.com/shunkakinoki/pitch/compare/v6.5.0...v6.5.1) (2020-03-08)
+
+
+### Bug Fixes
+
+* 🐛 130 ([007c40f](https://github.com/shunkakinoki/pitch/commit/007c40f36dfaef14bf23dc3a1efd6f1dfbde8bbd))
+
 # [6.5.0](https://github.com/shunkakinoki/pitch/compare/v6.4.0...v6.5.0) (2020-03-03)
 
 
