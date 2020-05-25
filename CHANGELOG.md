@@ -1,3 +1,10 @@
+## [6.5.2](https://github.com/shunkakinoki/pitch/compare/v6.5.1...v6.5.2) (2020-05-25)
+
+
+### Bug Fixes
+
+* **deps:** bump themes/after-dark from `e17b973` to `88feb9b` ([3145a27](https://github.com/shunkakinoki/pitch/commit/3145a27050dd1dcd89ffd659ccb5fd27313eba29))
+
 ## [6.5.1](https://github.com/shunkakinoki/pitch/compare/v6.5.0...v6.5.1) (2020-03-08)
 
 
