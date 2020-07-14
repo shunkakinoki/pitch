@@ -6029,10 +6029,10 @@ reusify@^1.0.0:
   resolved "https://registry.yarnpkg.com/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
   integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
-reveal-md@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/reveal-md/-/reveal-md-4.1.1.tgz#8686277adf7c6d7df54802150025993c765437d9"
-  integrity sha512-jxBOMvX+ih8aP6FREotLQUeY1crOhMQ4gjFy8G2d1mVe9gvU2HVK35XxKWxCcZFwf6av6DaGrdmpIbxJKIf7mg==
+reveal-md@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/reveal-md/-/reveal-md-4.1.2.tgz#d09de40408427b6ab851cdcaab865c88b6fee765"
+  integrity sha512-7QxYa6x+iFfwodqbPGNJcDDifa4MXejLp0QMuyzGjYLe4w9KXWVaiQ0ZuZ7Ssaogb7eq9vbVhyKavktIqMPjuw==
   dependencies:
     debug "4.1.1"
     express "4.17.1"
