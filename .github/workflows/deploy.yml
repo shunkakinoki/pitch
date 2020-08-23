@@ -44,8 +44,7 @@ jobs:
       - name: Build Reveal Site
         run: |
           yarn run build
-          rsync -r --ignore-existing reveal/ public
-          ls
+          rsync -r reveal/ public
           touch public/.nojekyll
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
