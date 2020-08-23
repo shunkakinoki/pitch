@@ -1,5 +1,6 @@
 name: Deploy
 on:
+  pull_request:
   push:
     branches:
       - master
@@ -38,11 +39,13 @@ jobs:
           hugo-version: "latest"
           extended: true
       - name: Build Hugo Site
-        run: hugo --minify
+        run: |
+          hugo --minify
       - name: Build Reveal Site
         run: |
           yarn run build
           rsync -r --ignore-existing reveal/ public
+          ls
           touch public/.nojekyll
       - name: Build and Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
