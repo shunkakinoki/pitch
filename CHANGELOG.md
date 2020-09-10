@@ -1,3 +1,10 @@
+## [6.5.9](https://github.com/shunkakinoki/pitch/compare/v6.5.8...v6.5.9) (2020-09-10)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump node-fetch from 2.6.0 to 2.6.1 ([41b11a0](https://github.com/shunkakinoki/pitch/commit/41b11a06ee5a9462e9511540d93c284c46ceb6a4))
+
 ## [6.5.8](https://github.com/shunkakinoki/pitch/compare/v6.5.7...v6.5.8) (2020-08-22)
 
 
