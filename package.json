@@ -22,7 +22,7 @@
     "prettier-fix": "prettier --write \"**/*.{yml,yaml}\""
   },
   "dependencies": {
-    "reveal-md": "^4.1.3"
+    "reveal-md": "^4.1.4"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
