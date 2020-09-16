@@ -31,7 +31,7 @@
     "eclint": "^2.8.1",
     "git-cz": "^4.7.1",
     "husky": "^4.3.0",
-    "prettier": "^2.1.1",
+    "prettier": "^2.1.2",
     "semantic-release": "^17.1.1"
   },
   "husky": {
