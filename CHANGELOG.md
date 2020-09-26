@@ -1,3 +1,10 @@
+## [6.5.11](https://github.com/shunkakinoki/pitch/compare/v6.5.10...v6.5.11) (2020-09-26)
+
+
+### Bug Fixes
+
+* **deps:** bump reveal-md from 4.1.4 to 4.1.5 ([b322054](https://github.com/shunkakinoki/pitch/commit/b32205419eee2e8e9a7157db898e2908ef611987))
+
 ## [6.5.10](https://github.com/shunkakinoki/pitch/compare/v6.5.9...v6.5.10) (2020-09-13)
 
 
