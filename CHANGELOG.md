@@ -1,3 +1,10 @@
+# [6.6.0](https://github.com/shunkakinoki/pitch/compare/v6.5.12...v6.6.0) (2020-09-28)
+
+
+### Features
+
+* 🎸 ini 131 132 ([7094ebd](https://github.com/shunkakinoki/pitch/commit/7094ebde23f5f08b403f2313d97c1ef790bf24ac))
+
 ## [6.5.12](https://github.com/shunkakinoki/pitch/compare/v6.5.11...v6.5.12) (2020-09-27)
 
 
