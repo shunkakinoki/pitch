@@ -1,3 +1,13 @@
+# [6.7.0](https://github.com/shunkakinoki/pitch/compare/v6.6.0...v6.7.0) (2020-10-02)
+
+### Features
+
+- 🎸 revamp ([232f155](https://github.com/shunkakinoki/pitch/commit/232f15568e2c50b10e110d717df8dbd03e23246b))
+
+### Performance Improvements
+
+- ⚡️ prettier ([2f7f90f](https://github.com/shunkakinoki/pitch/commit/2f7f90f3b9d6f266f45dffc257dd9153d819f1ca))
+
 # [6.6.0](https://github.com/shunkakinoki/pitch/compare/v6.5.12...v6.6.0) (2020-09-28)
 
 ### Features
