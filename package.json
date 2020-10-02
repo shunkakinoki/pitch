@@ -1,13 +1,13 @@
 {
   "name": "pitch",
-  "author": "Shun Kakinoki",
-  "license": "MIT",
   "version": "6.6.0",
   "homepage": "https://github.com/shunkakinoki/pitch",
   "repository": {
     "type": "git",
     "url": "https://github.com/shunkakinoki/pitch.git"
   },
+  "license": "MIT",
+  "author": "Shun Kakinoki",
   "scripts": {
     "check": "yarn run depcheck && yarn run lint && yarn run release:check",
     "fix": "yarn run jsonsort:fix && yarn run sort-package-json:fix && yarn run prettier:fix",
