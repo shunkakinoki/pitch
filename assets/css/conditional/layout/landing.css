@@ -1,9 +1,16 @@
 :root {
   --vertical-rhythm: 5rem;
-  --logo-animation-filter-start: drop-shadow(0 -25px 45px #ff2e88) brightness(1) drop-shadow(0 -55px 35px #ff2e88) brightness(1) drop-shadow(0 -35px 155px #ff9800) brightness(4);
-  --logo-animation-filter-end: drop-shadow(0 -20px 45px #ff2e88) brightness(.1) drop-shadow(0 0 5px #ff2e88) brightness(.7) drop-shadow(0 -20px 135px #ff2e88) brightness(2);
+  --logo-animation-filter-start: drop-shadow(0 -25px 45px #ff2e88) brightness(1)
+    drop-shadow(0 -55px 35px #ff2e88) brightness(1)
+    drop-shadow(0 -35px 155px #ff9800) brightness(4);
+  --logo-animation-filter-end: drop-shadow(0 -20px 45px #ff2e88) brightness(0.1)
+    drop-shadow(0 0 5px #ff2e88) brightness(0.7)
+    drop-shadow(0 -20px 135px #ff2e88) brightness(2);
 }
-main, footer, header, caption {
+main,
+footer,
+header,
+caption {
   text-align: center;
 }
 nav[itemtype*="SiteNavigationElement"] {
@@ -56,7 +63,8 @@ nav[itemtype*="SiteNavigationElement"]:focus-within {
   content: none;
 }
 .hack header h1 {
-  font-family: Futura,Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace,serif;
+  font-family: Futura, Menlo, Monaco, Lucida Console, Liberation Mono,
+    DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
   padding: 0;
   margin: 1rem;
   font-size: 3em;
@@ -82,7 +90,7 @@ nav[itemtype*="SiteNavigationElement"]:focus-within {
 }
 .hack header h2,
 .hack section h2 {
-  margin-top: .8rem;
+  margin-top: 0.8rem;
   font-size: 1.2em;
 }
 .hack header h2 {
