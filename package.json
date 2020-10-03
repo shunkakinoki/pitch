@@ -9,7 +9,9 @@
   "license": "MIT",
   "author": "Shun Kakinoki",
   "scripts": {
+    "build": "reveal-md pitch/ --static reveal --absolute-url https://pitch.shunkakinoki.com --template reveal.html",
     "check": "yarn run depcheck && yarn run lint && yarn run release:check",
+    "dev": "reveal-md pitch/ --absolute-url https://pitch.shunkakinoki.com --template reveal.html",
     "fix": "yarn run jsonsort:fix && yarn run sort-package-json:fix && yarn run prettier:fix",
     "jsonsort:check": "jsonsort .devcontainer .vscode locales -a -c",
     "jsonsort:fix": "jsonsort .devcontainer .vscode locales -a",
