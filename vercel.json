@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "public": false,
+  "scope": "shunkakinoki",
+  "trailingSlash": false,
+  "github": {
+    "enabled": true,
+    "autoJobCancelation": true,
+    "autoAlias": true,
+    "silent": false
+  }
+}
