@@ -1,3 +1,9 @@
+## [6.8.1](https://github.com/shunkakinoki/pitch/compare/v6.8.0...v6.8.1) (2020-10-03)
+
+### Performance Improvements
+
+- ⚡️ deploy ([c654954](https://github.com/shunkakinoki/pitch/commit/c65495457753f4542cbc5ea4c3cf904a0098d9a2))
+
 # [6.8.0](https://github.com/shunkakinoki/pitch/compare/v6.7.0...v6.8.0) (2020-10-03)
 
 ### Features
