@@ -1,3 +1,13 @@
+# [6.8.0](https://github.com/shunkakinoki/pitch/compare/v6.7.0...v6.8.0) (2020-10-03)
+
+### Features
+
+- 🎸 vercel ([615ba01](https://github.com/shunkakinoki/pitch/commit/615ba01acbc2f6327f5ad369c1acc331080f0141))
+
+### Performance Improvements
+
+- ⚡️ deploy ([17c6d6d](https://github.com/shunkakinoki/pitch/commit/17c6d6d9f0e22a0907776504ee940491c91f5f9f))
+
 # [6.7.0](https://github.com/shunkakinoki/pitch/compare/v6.6.0...v6.7.0) (2020-10-02)
 
 ### Features
