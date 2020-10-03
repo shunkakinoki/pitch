@@ -8,40 +8,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Checkout submodules
-        shell: bash
-        run: |
+      - run: |
           auth_header="$(git config --local --get http.https://github.com/.extraheader)"
           git submodule sync --recursive
           git -c "http.extraheader=$auth_header" -c protocol.version=2 submodule update --init --force --recursive --depth=1
       - uses: actions/setup-node@v1
         with:
           node-version: "12.x"
-      - name: Cache node modules
-        id: cache
-        uses: actions/cache@v1
+      - uses: actions/cache@v2
         with:
-          path: node_modules
-          key: node-${{ hashFiles('**/yarn.lock') }}
+          path: |
+            **/node_modules
+          key: |
+            yarn-v1-${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            node-
-      - name: Install dependencies with yarn
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          yarn install
-      - name: Run make
-        run: |
+            yarn-v1-${{ runner.os }}-
+      - run: |
+          yarn install --frozen-lockfile
+      - run: |
           make
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
           extended: true
-      - name: Build Hugo Site
-        run: |
+      - run: |
           hugo --minify
-      - name: Build Reveal Site
-        run: |
+      - run: |
           yarn run build
           rsync -r --ignore-existing reveal/ public
           touch public/.nojekyll
