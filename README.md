@@ -9,5 +9,3 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 </div>
-
-Shout out to the [after-dark](https://after-dark.habd.as/) for the amazing dark theme!
