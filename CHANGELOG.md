@@ -1,3 +1,9 @@
+## [6.8.2](https://github.com/shunkakinoki/pitch/compare/v6.8.1...v6.8.2) (2020-10-03)
+
+### Performance Improvements
+
+- ⚡️ build ([fd70ad2](https://github.com/shunkakinoki/pitch/commit/fd70ad204cee8087e789fd8367fd42c5b6998cb3))
+
 ## [6.8.1](https://github.com/shunkakinoki/pitch/compare/v6.8.0...v6.8.1) (2020-10-03)
 
 ### Performance Improvements
