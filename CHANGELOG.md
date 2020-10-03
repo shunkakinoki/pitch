@@ -1,3 +1,13 @@
+# [6.9.0](https://github.com/shunkakinoki/pitch/compare/v6.8.2...v6.9.0) (2020-10-03)
+
+### Features
+
+- 🎸 reveal-md ([d54ab7e](https://github.com/shunkakinoki/pitch/commit/d54ab7e0f7236586ec777a1eb9e80e5a068c34ff))
+
+### Performance Improvements
+
+- ⚡️ update ([1e6cc13](https://github.com/shunkakinoki/pitch/commit/1e6cc134d4081f1251e27a95a3e5405e89c92f51))
+
 ## [6.8.2](https://github.com/shunkakinoki/pitch/compare/v6.8.1...v6.8.2) (2020-10-03)
 
 ### Performance Improvements
