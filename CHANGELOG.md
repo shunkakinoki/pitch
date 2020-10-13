@@ -1,3 +1,9 @@
+# [6.10.0](https://github.com/shunkakinoki/pitch/compare/v6.9.1...v6.10.0) (2020-10-13)
+
+### Features
+
+- 🎸 ini dev container ([00f333d](https://github.com/shunkakinoki/pitch/commit/00f333d6fb0f87b69a8d94c98c8a3d96a41ea34f))
+
 ## [6.9.1](https://github.com/shunkakinoki/pitch/compare/v6.9.0...v6.9.1) (2020-10-13)
 
 ### Performance Improvements
