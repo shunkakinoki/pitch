@@ -1,5 +1,5 @@
 name: sentrei
-root: ~/ghq/github.com/shunkakinoki/shunkakinoki
+root: ~/ghq/github.com/shunkakinoki/pitch
 attach: true
 windows:
   - zsh: neofetch
