@@ -1,3 +1,9 @@
+## [6.9.1](https://github.com/shunkakinoki/pitch/compare/v6.9.0...v6.9.1) (2020-10-13)
+
+### Performance Improvements
+
+- ⚡️ ini tmuxinator ([0840d98](https://github.com/shunkakinoki/pitch/commit/0840d98e76d7c60bcd13f30e39303df9847db8e3))
+
 # [6.9.0](https://github.com/shunkakinoki/pitch/compare/v6.8.2...v6.9.0) (2020-10-03)
 
 ### Features
