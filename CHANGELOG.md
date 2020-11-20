@@ -1,3 +1,13 @@
+# [6.11.0](https://github.com/shunkakinoki/pitch/compare/v6.10.0...v6.11.0) (2020-11-20)
+
+### Features
+
+- 🎸 ini sentrei db ([579f0a4](https://github.com/shunkakinoki/pitch/commit/579f0a4c377f1df3fb32ca0b831e6c0fdee6b094))
+
+### Performance Improvements
+
+- ⚡️ ini vscode settings ([73086e1](https://github.com/shunkakinoki/pitch/commit/73086e11fe5aa8ac8b819df72bed3a431950ef6c))
+
 # [6.10.0](https://github.com/shunkakinoki/pitch/compare/v6.9.1...v6.10.0) (2020-10-13)
 
 ### Features
