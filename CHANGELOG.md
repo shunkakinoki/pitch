@@ -1,3 +1,9 @@
+# [6.12.0](https://github.com/shunkakinoki/pitch/compare/v6.11.0...v6.12.0) (2020-11-21)
+
+### Features
+
+- 🎸 ini fauna saas ([25ecc2c](https://github.com/shunkakinoki/pitch/commit/25ecc2c96045ec1ae094d58d092b7cab0d669236))
+
 # [6.11.0](https://github.com/shunkakinoki/pitch/compare/v6.10.0...v6.11.0) (2020-11-20)
 
 ### Features
