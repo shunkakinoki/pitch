@@ -1,3 +1,9 @@
+## [6.12.1](https://github.com/shunkakinoki/pitch/compare/v6.12.0...v6.12.1) (2020-11-21)
+
+### Performance Improvements
+
+- ⚡️ ini db v3 ([b62c4be](https://github.com/shunkakinoki/pitch/commit/b62c4bee7b5c8acd79893d972a90f0a4931e51fa))
+
 # [6.12.0](https://github.com/shunkakinoki/pitch/compare/v6.11.0...v6.12.0) (2020-11-21)
 
 ### Features
