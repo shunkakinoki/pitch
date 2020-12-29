@@ -1,3 +1,9 @@
+## [6.12.2](https://github.com/shunkakinoki/pitch/compare/v6.12.1...v6.12.2) (2020-12-29)
+
+### Performance Improvements
+
+- ⚡️ chore ([4f09bc7](https://github.com/shunkakinoki/pitch/commit/4f09bc7870fc18c6fbe9e558d5d77cfc14406aaf))
+
 ## [6.12.1](https://github.com/shunkakinoki/pitch/compare/v6.12.0...v6.12.1) (2020-11-21)
 
 ### Performance Improvements
