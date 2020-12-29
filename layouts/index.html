@@ -42,7 +42,7 @@
         {{ range (.Paginate (where .Pages.ByWeight.Reverse ".Weight" ">" 0 )).Pages }}
         <tr>
           <td><a href="{{ .RelPermalink }}">{{ .Weight }}</a></td>
-          <td><a href="{{ path.Join .RelPermalink "pitch.html" }}">{{ .Title }}</a></td>
+          <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
         </tr>
         {{ end }}
       </nav>
