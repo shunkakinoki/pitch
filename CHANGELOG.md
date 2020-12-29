@@ -1,3 +1,9 @@
+# [6.13.0](https://github.com/shunkakinoki/pitch/compare/v6.12.2...v6.13.0) (2020-12-29)
+
+### Features
+
+- 🎸 remove reveal md ([d7bb1fb](https://github.com/shunkakinoki/pitch/commit/d7bb1fb4dc0430414e1719176ef04152dfbf3028))
+
 ## [6.12.2](https://github.com/shunkakinoki/pitch/compare/v6.12.1...v6.12.2) (2020-12-29)
 
 ### Performance Improvements
